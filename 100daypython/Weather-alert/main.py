@@ -4,11 +4,11 @@ from twilio.rest import Client
 import os
 
 auth_token = os.environ.get("TWILIO_TOKEN")
-account_sid = "AC5f0fb9800e496e154c54467a73f53c64"
+account_sid = ""
 client = Client(account_sid, auth_token)
 
-MY_LAT = 32.776665
-MY_LONG = -96.796989
+MY_LAT = 
+MY_LONG = 
 API_KEY = os.environ.get("WEATHER_API")
 parameters = {
     "lat":MY_LAT ,
@@ -36,8 +36,8 @@ if umbrella == True:
     message = client.messages \
                 .create(
                      body="Bring an umbrella",
-                     from_='+19792726617',
-                     to='+12144177306'
+                     from_='+',
+                     to='+'
                  )
     print(message.status)
 else:
