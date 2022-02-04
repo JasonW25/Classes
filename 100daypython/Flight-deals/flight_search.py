@@ -8,7 +8,7 @@ class FlightSearch:
     #This class is responsible for talking to the Flight Search API.
     def __init__(self) -> None:
         self.headers = {
-            "apikey":"abEKm5POev4mEOkou-rEwYfHrvhKKyIr"
+            "apikey":"   "
             }
         self.start_end = "https://tequila-api.kiwi.com"
         self.flight_list = []
