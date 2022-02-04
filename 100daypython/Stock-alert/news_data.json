@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Elon Musk \u00e8 il pi\u00f9 ricco del mondo: il numero uno di Tesla sfonda i 200 miliardi di dollari di patrimonio e a\u2026",
+            "description": "Grazie all'apprezzamento del 55% dei titoli dell'azienda di auto elettriche, l'imprenditore \u00e8 il Paperone del 2021 e supera di circa 80 mili\u2026",
+            "url": "https://www.repubblica.it/economia/2022/01/01/news/elon_musk_e_il_piu_ricco_del_mondo_e_con_oltre_200_miliardi_di_dollari_di_patrimonio_arriva_solo_dove_rockefeller_aveva_osat-332340083/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2022/01/01/163110127-391ba0a1-20d2-4b36-b75c-c7f18c8136d6.jpg",
+            "publishedAt": "2022-01-01T16:12:00Z",
+            "content": "MILANOElon Musk supera tutte le classifiche di sempre e con un patrimonio record di oltre 200 miliardi di dollari raggiunge una vetta dove finora - fatte le debite proporzioni - secndo Bloomberg era \u2026 [+437 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Elon Musk Interviewed by Lex Friedman on Mars, Tesla FSD and Teslabot | NextBigFuture.com",
+            "description": "Elon Musk had a 2.5 hour interview with Lex Friedman where he talked SpaceX Starship, Mars, Tesla FSD and Teslabot.",
+            "url": "https://www.nextbigfuture.com/2021/12/elon-musk-interviewed-by-lex-friedman-on-mars-tesla-fsd-and-teslabot.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/12/Screen-Shot-2021-12-28-at-6.22.10-PM.jpg",
+            "publishedAt": "2021-12-29T02:24:03Z",
+            "content": "Elon Musk had a 2.5 hour interview with Lex Friedman where he talked SpaceX Starship, Mars, Tesla FSD and Teslabot.\r\nElon Musk is back to being confident that the Raptor 2 mass production problems wi\u2026 [+2080 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Tesla's Fully Agile Rapid Innovation | NextBigFuture.com",
+            "description": "In 2008, Nextbigfuture wrote how a massive technological transformation was possible even without greater than human-level general artificial intelligence or",
+            "url": "https://www.nextbigfuture.com/2021/12/174206.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/12/Screen-Shot-2021-12-27-at-10.05.13-PM.jpg",
+            "publishedAt": "2021-12-28T06:44:26Z",
+            "content": "In 2008, Nextbigfuture wrote how a massive technological transformation was possible even without greater than human-level general artificial intelligence or molecular nanotechnology. I proposed that\u2026 [+4051 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Another Decade of Tesla, SpaceX, Cryptocurrency, Apple Domination | NextBigFuture.com",
+            "description": "What would the rough shape of the world be if the Big Tech companies and Cryptocurrency continue on their current trajectories?",
+            "url": "https://www.nextbigfuture.com/2021/12/future-tesla-spacex-crypto-apple-and-other-big-tech.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/12/teslabitcoin.jpeg",
+            "publishedAt": "2021-12-26T21:19:52Z",
+            "content": "What would the rough shape of the world be if the Big Tech companies and Cryptocurrency continue on their current trajectories?\r\nFor years, people with traditional financial backgrounds would say tha\u2026 [+5713 chars]"
+        }
+    ]
+}

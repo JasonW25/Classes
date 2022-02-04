@@ -1,0 +1,17 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Edit Book{% endblock %}
+
+{% block content %}
+<h1>Book Title: {{ book['title'] }}</h1>
+<h2>Author: {{ book['author'] }}</h2>
+<h3>Old Rating: {{book['rating']}}</h3>
+<form action="/edit/{{num}}" method="POST">
+    <input type="text" name="new_rating">
+    <button type="submit">Change Rating</button>
+</form>
+    
+
+<a href="{{ url_for('home') }}">Back Home</a>
+{% endblock %}

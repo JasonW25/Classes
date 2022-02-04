@@ -1,0 +1,3809 @@
+[
+    {
+        "id": "22f525c34a510000e7f4605f_0|25c322f54a5a00001ce6b565_0",
+        "flyFrom": "LGW",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 108.333225,
+        "distance": 308.04,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 54,
+        "conversion": {
+            "GBP": 54,
+            "EUR": 65
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LGW",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "22f525c34a510000e7f4605f_0",
+                "combination_id": "22f525c34a510000e7f4605f",
+                "flyFrom": "LGW",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 8327,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8327",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:19:17.000Z",
+                "refresh_timestamp": "2022-01-06T00:19:17.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T19:00:00.000Z",
+                "utc_arrival": "2022-02-02T18:00:00.000Z",
+                "local_departure": "2022-02-02T16:45:00.000Z",
+                "utc_departure": "2022-02-02T16:45:00.000Z"
+            },
+            {
+                "id": "25c322f54a5a00001ce6b565_0",
+                "combination_id": "25c322f54a5a00001ce6b565",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8330,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8330",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-11T22:10:00.000Z",
+                "utc_arrival": "2022-02-11T22:10:00.000Z",
+                "local_departure": "2022-02-11T22:00:00.000Z",
+                "utc_departure": "2022-02-11T21:00:00.000Z"
+            }
+        ],
+        "booking_token": "CowT9DRDngdN9x6dnd9dYZEzWSI7hA_j9Ce3NO0sXQk9MCqjm0ziF5QMzN3uXbLpZk0NLinFoJnNuzY5jeDzQ_0tz381zaXYPur2EN0wude69CYd39ecWSUjS_YupyWLWmu68HEZnfdyO1vtD2GcN1H9MhQUSnlcS3m1bKCoFUpbLa77NGAFboiirFfmrk9CZGUQ0T-lmppOXTOqnNZgjpOJWoe01lG8TO1GHjX12r0sG-93qWzjoJuZtsTb-L0H5WeaotUAbeHciScoqMplgy0N90GJY0nDdGd8SXOSVL7KHGsoop9dlrk_3ztAI_ErTrTPyYlivOG5qecCEOU43ejmT-hxjyPyXD8pXqjOi-VJPFSgv3jcUWMD-Nq7uum7J3nJsLoG1xdfqq82byfJt0A==",
+        "deep_link": "https://www.kiwi.com/deep?from=LGW&to=CDG&flightsId=22f525c34a510000e7f4605f_0%7C25c322f54a5a00001ce6b565_0&price=65&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CowT9DRDngdN9x6dnd9dYZEzWSI7hA_j9Ce3NO0sXQk9MCqjm0ziF5QMzN3uXbLpZk0NLinFoJnNuzY5jeDzQ_0tz381zaXYPur2EN0wude69CYd39ecWSUjS_YupyWLWmu68HEZnfdyO1vtD2GcN1H9MhQUSnlcS3m1bKCoFUpbLa77NGAFboiirFfmrk9CZGUQ0T-lmppOXTOqnNZgjpOJWoe01lG8TO1GHjX12r0sG-93qWzjoJuZtsTb-L0H5WeaotUAbeHciScoqMplgy0N90GJY0nDdGd8SXOSVL7KHGsoop9dlrk_3ztAI_ErTrTPyYlivOG5qecCEOU43ejmT-hxjyPyXD8pXqjOi-VJPFSgv3jcUWMD-Nq7uum7J3nJsLoG1xdfqq82byfJt0A==",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T19:00:00.000Z",
+        "utc_arrival": "2022-02-02T18:00:00.000Z",
+        "local_departure": "2022-02-02T16:45:00.000Z",
+        "utc_departure": "2022-02-02T16:45:00.000Z"
+    },
+    {
+        "id": "22f525c34a510000e7f4605f_0|25c322f54a590000d0333dff_0",
+        "flyFrom": "LGW",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 108.99989,
+        "distance": 308.04,
+        "duration": {
+            "departure": 4500,
+            "return": 4500,
+            "total": 9000
+        },
+        "price": 54,
+        "conversion": {
+            "GBP": 54,
+            "EUR": 65
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LGW",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "22f525c34a510000e7f4605f_0",
+                "combination_id": "22f525c34a510000e7f4605f",
+                "flyFrom": "LGW",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 8327,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8327",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:19:17.000Z",
+                "refresh_timestamp": "2022-01-06T00:19:17.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T19:00:00.000Z",
+                "utc_arrival": "2022-02-02T18:00:00.000Z",
+                "local_departure": "2022-02-02T16:45:00.000Z",
+                "utc_departure": "2022-02-02T16:45:00.000Z"
+            },
+            {
+                "id": "25c322f54a590000d0333dff_0",
+                "combination_id": "25c322f54a590000d0333dff",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-10T07:35:00.000Z",
+                "utc_arrival": "2022-02-10T07:35:00.000Z",
+                "local_departure": "2022-02-10T07:20:00.000Z",
+                "utc_departure": "2022-02-10T06:20:00.000Z"
+            }
+        ],
+        "booking_token": "CjBlDocAArt9rfnp9UGSVmQLgrW8pz8ENA--Nq94rYDIYTrtG879oVlhya-Bq1fXz69vWnVVlbFMmnX0HzGtPlGt6UONMJNvk1vEyLSqpBJvU_aeavvids3_6WBOVJhNa1Edmab7FTwOwdbBaQcU27x6ly43o07gcmwvLpkL1G4ak0HZDiDzU_X_mE7qnIU3AIEwqpJx1jjo83g1UfBpks39oNTgoUwPf15vIN_3B72e4C01fUiTjbeimu_v9XqwiNXStB8PPFQ988S2Serju47D1hAVlTXyNPcPHhP8tJzN7j2_RpEKpuk6i4NcATD-rZMTlmGN6YnM0dA9j_PPMyKsfJ0u9zpITcBwz5C3jK_UtUxvLMEHHUGCQR27ttW08wPuIIWB-rOycf3RSLzhaHA==",
+        "deep_link": "https://www.kiwi.com/deep?from=LGW&to=CDG&flightsId=22f525c34a510000e7f4605f_0%7C25c322f54a590000d0333dff_0&price=65&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CjBlDocAArt9rfnp9UGSVmQLgrW8pz8ENA--Nq94rYDIYTrtG879oVlhya-Bq1fXz69vWnVVlbFMmnX0HzGtPlGt6UONMJNvk1vEyLSqpBJvU_aeavvids3_6WBOVJhNa1Edmab7FTwOwdbBaQcU27x6ly43o07gcmwvLpkL1G4ak0HZDiDzU_X_mE7qnIU3AIEwqpJx1jjo83g1UfBpks39oNTgoUwPf15vIN_3B72e4C01fUiTjbeimu_v9XqwiNXStB8PPFQ988S2Serju47D1hAVlTXyNPcPHhP8tJzN7j2_RpEKpuk6i4NcATD-rZMTlmGN6YnM0dA9j_PPMyKsfJ0u9zpITcBwz5C3jK_UtUxvLMEHHUGCQR27ttW08wPuIIWB-rOycf3RSLzhaHA==",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T19:00:00.000Z",
+        "utc_arrival": "2022-02-02T18:00:00.000Z",
+        "local_departure": "2022-02-02T16:45:00.000Z",
+        "utc_departure": "2022-02-02T16:45:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000004903a5b_0|25c322f54a8a00004a9fbebd_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 109.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000004903a5b_0",
+                "combination_id": "18ff25c34a81000004903a5b",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T20:55:00.000Z",
+                "utc_arrival": "2022-03-22T19:55:00.000Z",
+                "local_departure": "2022-03-22T18:40:00.000Z",
+                "utc_departure": "2022-03-22T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a00004a9fbebd_0",
+                "combination_id": "25c322f54a8a00004a9fbebd",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8324,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T11:00:00.000Z",
+                "utc_arrival": "2022-03-31T10:00:00.000Z",
+                "local_departure": "2022-03-31T10:50:00.000Z",
+                "utc_departure": "2022-03-31T08:50:00.000Z"
+            }
+        ],
+        "booking_token": "Cah8vd6jBn86MdLU12IHUer0ZjtMaGV2P9hb_0w16vUkftQEmlHkycx7vfMiyp0d9SUv07P-5z9BP6GovHnQYg5duI3zlGJbvO8WN24Fib4OQDh9_aT_IXm42j4y5m5DaHMLWOnjfishSNClUc0nUobEzPud-cECCN5uUeWJWu0v7tLDIJF9qzPdi2-A2kVCFCoxuaNvfmdtLlroFmOu1LjHpaJx8Hc2YgN4fahF-a3kjs6TE3ylAKRUZnAzIVA9AxgST5Y_zk28K6xJ49TZjHt4AwawpM6ElvhZkx7fjVft6v_r86JGJu9quPvCeohGS-QOsZR6FYUYErtOMHzpGOdWpakGDX0ThAo2ZfQ5pQgFh9cIyAVAsI-UmsnQFO6C0F-VANrdWzZLjsnmogQHs4d3Bt5MvPzTbE-RdXb0g1gk=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000004903a5b_0%7C25c322f54a8a00004a9fbebd_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=Cah8vd6jBn86MdLU12IHUer0ZjtMaGV2P9hb_0w16vUkftQEmlHkycx7vfMiyp0d9SUv07P-5z9BP6GovHnQYg5duI3zlGJbvO8WN24Fib4OQDh9_aT_IXm42j4y5m5DaHMLWOnjfishSNClUc0nUobEzPud-cECCN5uUeWJWu0v7tLDIJF9qzPdi2-A2kVCFCoxuaNvfmdtLlroFmOu1LjHpaJx8Hc2YgN4fahF-a3kjs6TE3ylAKRUZnAzIVA9AxgST5Y_zk28K6xJ49TZjHt4AwawpM6ElvhZkx7fjVft6v_r86JGJu9quPvCeohGS-QOsZR6FYUYErtOMHzpGOdWpakGDX0ThAo2ZfQ5pQgFh9cIyAVAsI-UmsnQFO6C0F-VANrdWzZLjsnmogQHs4d3Bt5MvPzTbE-RdXb0g1gk=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T20:55:00.000Z",
+        "utc_arrival": "2022-03-22T19:55:00.000Z",
+        "local_departure": "2022-03-22T18:40:00.000Z",
+        "utc_departure": "2022-03-22T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000004903a5b_0|25c322f54a8a0000a3fc1b88_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 109.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000004903a5b_0",
+                "combination_id": "18ff25c34a81000004903a5b",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T20:55:00.000Z",
+                "utc_arrival": "2022-03-22T19:55:00.000Z",
+                "local_departure": "2022-03-22T18:40:00.000Z",
+                "utc_departure": "2022-03-22T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a0000a3fc1b88_0",
+                "combination_id": "25c322f54a8a0000a3fc1b88",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T07:25:00.000Z",
+                "utc_arrival": "2022-03-31T06:25:00.000Z",
+                "local_departure": "2022-03-31T07:15:00.000Z",
+                "utc_departure": "2022-03-31T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CHYmgGzgrDGj_1q0LDtgAlrtUsoXqaMKBV0Rfh-loy2UUMRzmiJXIANRy_VpYnVy0bzMg6JPpuv7rXqOiOfP9yvLPy_lAOZ6JEavUMYzEWz8T5UG2YXWs2sd6F6XUoj8gFlCHJdCzUsh0xbVSHOFyZm0WUqfp3cmgPkufXNPcQksKAjQtlpMjGBL1p8Qch65xO61qT3cMuY0VN7SbrHfUirrPeR2M5Fk0dKzBZD_O4s0qmW21ygBLg31_QO_2NCkQ4BEt1hAXrp51_wDgUpp9Gw-mYWey6P0xdlqTZnKhA_ugT8jFIMQLqCppHlCk-ktqIAVqM__5VDFmU0ApBE5kxJryG3j30vkoLTcA8BaitqBNFcnHrUqriPJ7TA3SpWRFkvj4sjmOmJlou1zNbOTp4Zoomq7LqsO05jIvjDKnFmE=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000004903a5b_0%7C25c322f54a8a0000a3fc1b88_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CHYmgGzgrDGj_1q0LDtgAlrtUsoXqaMKBV0Rfh-loy2UUMRzmiJXIANRy_VpYnVy0bzMg6JPpuv7rXqOiOfP9yvLPy_lAOZ6JEavUMYzEWz8T5UG2YXWs2sd6F6XUoj8gFlCHJdCzUsh0xbVSHOFyZm0WUqfp3cmgPkufXNPcQksKAjQtlpMjGBL1p8Qch65xO61qT3cMuY0VN7SbrHfUirrPeR2M5Fk0dKzBZD_O4s0qmW21ygBLg31_QO_2NCkQ4BEt1hAXrp51_wDgUpp9Gw-mYWey6P0xdlqTZnKhA_ugT8jFIMQLqCppHlCk-ktqIAVqM__5VDFmU0ApBE5kxJryG3j30vkoLTcA8BaitqBNFcnHrUqriPJ7TA3SpWRFkvj4sjmOmJlou1zNbOTp4Zoomq7LqsO05jIvjDKnFmE=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T20:55:00.000Z",
+        "utc_arrival": "2022-03-22T19:55:00.000Z",
+        "local_departure": "2022-03-22T18:40:00.000Z",
+        "utc_departure": "2022-03-22T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000004903a5b_0|25c322f54a88000066f4347c_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 7,
+        "quality": 109.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000004903a5b_0",
+                "combination_id": "18ff25c34a81000004903a5b",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T20:55:00.000Z",
+                "utc_arrival": "2022-03-22T19:55:00.000Z",
+                "local_departure": "2022-03-22T18:40:00.000Z",
+                "utc_departure": "2022-03-22T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a88000066f4347c_0",
+                "combination_id": "25c322f54a88000066f4347c",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-29T07:25:00.000Z",
+                "utc_arrival": "2022-03-29T06:25:00.000Z",
+                "local_departure": "2022-03-29T07:15:00.000Z",
+                "utc_departure": "2022-03-29T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "C_IgelUP5FeFtQGU9XcsaLSKFVqPtLLM33vp9JPgCAsQjiXdxOLncY6k48x8Uk7eqTQtyZymPelCMJp8vcrylx1ZDgOqHT4FTC-hfmDcosW6dI2J9Jtnd94D5m1OiQr_EkCmUwyRCrA4EZ0dNhEaka1FMDfRlrUUVTPhLJhemoiSi8sgHHYhStINJut1nkELfLlsvViCaviGPV7x94CPdxRTwT6qEwE6NS0XcHL3nRSaiBy4PkBlXYBATaXA_eEXKziqUf4td5B77_fRRGFyOQmG-aF7J_QEVqLEafKRtuhz40XCTnPss1LG3v4SEFqeXxb1iM1AASMS3WraBtta-cQ3ZZ4o6hDZfnXu5LClV8xwzL8dhHzELFFPZsRam9j_IjVPodhJU_gYlL2HXjXgPCSYZClInQZQhAKz5RGlaT6o=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000004903a5b_0%7C25c322f54a88000066f4347c_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C_IgelUP5FeFtQGU9XcsaLSKFVqPtLLM33vp9JPgCAsQjiXdxOLncY6k48x8Uk7eqTQtyZymPelCMJp8vcrylx1ZDgOqHT4FTC-hfmDcosW6dI2J9Jtnd94D5m1OiQr_EkCmUwyRCrA4EZ0dNhEaka1FMDfRlrUUVTPhLJhemoiSi8sgHHYhStINJut1nkELfLlsvViCaviGPV7x94CPdxRTwT6qEwE6NS0XcHL3nRSaiBy4PkBlXYBATaXA_eEXKziqUf4td5B77_fRRGFyOQmG-aF7J_QEVqLEafKRtuhz40XCTnPss1LG3v4SEFqeXxb1iM1AASMS3WraBtta-cQ3ZZ4o6hDZfnXu5LClV8xwzL8dhHzELFFPZsRam9j_IjVPodhJU_gYlL2HXjXgPCSYZClInQZQhAKz5RGlaT6o=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T20:55:00.000Z",
+        "utc_arrival": "2022-03-22T19:55:00.000Z",
+        "local_departure": "2022-03-22T18:40:00.000Z",
+        "utc_departure": "2022-03-22T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000004903a5b_0|25c322f54a8900006447f0ec_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 109.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000004903a5b_0",
+                "combination_id": "18ff25c34a81000004903a5b",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T20:55:00.000Z",
+                "utc_arrival": "2022-03-22T19:55:00.000Z",
+                "local_departure": "2022-03-22T18:40:00.000Z",
+                "utc_departure": "2022-03-22T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8900006447f0ec_0",
+                "combination_id": "25c322f54a8900006447f0ec",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-30T07:25:00.000Z",
+                "utc_arrival": "2022-03-30T06:25:00.000Z",
+                "local_departure": "2022-03-30T07:15:00.000Z",
+                "utc_departure": "2022-03-30T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "C_IgelUP5FeFtQGU9XcsaLSKFVqPtLLM33vp9JPgCAsQjiXdxOLncY6k48x8Uk7eqTQtyZymPelCMJp8vcrylx9cLyzqcnyJzLm1BzcOzScu1tr_sl3AAkmzzGNah0ydWQsUaGnlFn8Pj4MPjoyf2u5v8cZCKorTfFvDp-gAPlS91kR-ilWkG3MbID6XG7vIPdzLzhpFPstnnl3CIGFqTMW_k5pWPe07L_0xuMqxlWIDQHXDvunfSM-H4oaFjAeYX3hbe32EOh0tjB59d1UMuVscUhBW-kVR69i2LTW_CeWMMk8JnqZwuFYm1jEA4jfrZYlbYAwAH2k27nhxdA2sELdGCOxgCReOnX6t7XIc-1xQqCbHwgPHbyWc09RYxsfbbQt9s8eq-ith8W4FIru2BbsOTfdeAdKfROzYSoSOoNoM=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000004903a5b_0%7C25c322f54a8900006447f0ec_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C_IgelUP5FeFtQGU9XcsaLSKFVqPtLLM33vp9JPgCAsQjiXdxOLncY6k48x8Uk7eqTQtyZymPelCMJp8vcrylx9cLyzqcnyJzLm1BzcOzScu1tr_sl3AAkmzzGNah0ydWQsUaGnlFn8Pj4MPjoyf2u5v8cZCKorTfFvDp-gAPlS91kR-ilWkG3MbID6XG7vIPdzLzhpFPstnnl3CIGFqTMW_k5pWPe07L_0xuMqxlWIDQHXDvunfSM-H4oaFjAeYX3hbe32EOh0tjB59d1UMuVscUhBW-kVR69i2LTW_CeWMMk8JnqZwuFYm1jEA4jfrZYlbYAwAH2k27nhxdA2sELdGCOxgCReOnX6t7XIc-1xQqCbHwgPHbyWc09RYxsfbbQt9s8eq-ith8W4FIru2BbsOTfdeAdKfROzYSoSOoNoM=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T20:55:00.000Z",
+        "utc_arrival": "2022-03-22T19:55:00.000Z",
+        "local_departure": "2022-03-22T18:40:00.000Z",
+        "utc_departure": "2022-03-22T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a51000031fba616_0|25c322f54a5a00001ce6b565_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 109.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 60.33,
+            "2": 131.2
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a51000031fba616_0",
+                "combination_id": "18ff25c34a51000031fba616",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2431,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2431",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:30:03.000Z",
+                "refresh_timestamp": "2022-01-06T00:30:03.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T09:30:00.000Z",
+                "utc_arrival": "2022-02-02T08:30:00.000Z",
+                "local_departure": "2022-02-02T07:10:00.000Z",
+                "utc_departure": "2022-02-02T07:10:00.000Z"
+            },
+            {
+                "id": "25c322f54a5a00001ce6b565_0",
+                "combination_id": "25c322f54a5a00001ce6b565",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8330,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8330",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-11T22:10:00.000Z",
+                "utc_arrival": "2022-02-11T22:10:00.000Z",
+                "local_departure": "2022-02-11T22:00:00.000Z",
+                "utc_departure": "2022-02-11T21:00:00.000Z"
+            }
+        ],
+        "booking_token": "C841tdyHnJtF0YjdzC6o_-5PzLaitrbOr_CgyMrgVTtN0Pe-SLvVMvT3ljcZ5PTkv0FV25xZ0e-CxU144Nd2x9ZSsyU_4lGDH2zmCAh2W5XmY4AziZn5J2pFWCSphDLzv5MCCQnTZdEgzlRuIFubqpDJfZ3ZOe1TDeBK_5Zj-h7i-FQoxrF-dDT-qAEXyoDtq048tybCIhykEq86XFHRcCxe67PhJ26V_5iUnxanc5KafnSZVAZjqWJ6VaKQL9N_92v7qAwgMqktEBJJ1SbbZ__5k2-DEgt3dv8BC0zLJkY6E3WDP379JyrFasht1bOJHLumWrBSCg4dmUTRNLCE7YKMhi5Tf8NNcReeMwVzj__vjiDs-d4lb4cxsO2S4fwpAOaLPf2lKcKuzENkxrgmHnC2JV1LwAw1Ta-mhLYsNFIo=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a51000031fba616_0%7C25c322f54a5a00001ce6b565_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C841tdyHnJtF0YjdzC6o_-5PzLaitrbOr_CgyMrgVTtN0Pe-SLvVMvT3ljcZ5PTkv0FV25xZ0e-CxU144Nd2x9ZSsyU_4lGDH2zmCAh2W5XmY4AziZn5J2pFWCSphDLzv5MCCQnTZdEgzlRuIFubqpDJfZ3ZOe1TDeBK_5Zj-h7i-FQoxrF-dDT-qAEXyoDtq048tybCIhykEq86XFHRcCxe67PhJ26V_5iUnxanc5KafnSZVAZjqWJ6VaKQL9N_92v7qAwgMqktEBJJ1SbbZ__5k2-DEgt3dv8BC0zLJkY6E3WDP379JyrFasht1bOJHLumWrBSCg4dmUTRNLCE7YKMhi5Tf8NNcReeMwVzj__vjiDs-d4lb4cxsO2S4fwpAOaLPf2lKcKuzENkxrgmHnC2JV1LwAw1Ta-mhLYsNFIo=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T09:30:00.000Z",
+        "utc_arrival": "2022-02-02T08:30:00.000Z",
+        "local_departure": "2022-02-02T07:10:00.000Z",
+        "utc_departure": "2022-02-02T07:10:00.000Z"
+    },
+    {
+        "id": "18ff25c34a500000e05527aa_0|25c322f54a5a00001ce6b565_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 10,
+        "quality": 109.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 60.33,
+            "2": 131.2
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a500000e05527aa_0",
+                "combination_id": "18ff25c34a500000e05527aa",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2431,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2431",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:30:03.000Z",
+                "refresh_timestamp": "2022-01-06T00:30:03.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-01T09:30:00.000Z",
+                "utc_arrival": "2022-02-01T08:30:00.000Z",
+                "local_departure": "2022-02-01T07:10:00.000Z",
+                "utc_departure": "2022-02-01T07:10:00.000Z"
+            },
+            {
+                "id": "25c322f54a5a00001ce6b565_0",
+                "combination_id": "25c322f54a5a00001ce6b565",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8330,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8330",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-11T22:10:00.000Z",
+                "utc_arrival": "2022-02-11T22:10:00.000Z",
+                "local_departure": "2022-02-11T22:00:00.000Z",
+                "utc_departure": "2022-02-11T21:00:00.000Z"
+            }
+        ],
+        "booking_token": "Cqp4IWeTfj4_JZe_e_E-jT8EVXH4iMbC3jcTQtYelXs0rJu-z6uqZGqFK-QAkU1_NPuQVCfJoaGyHKHvpe1mC8vn_PC53Uzc4j8fsk_4JoT8_MKjfrDR7zuyCQRjNeMWvkmflUAGBeZmwpP94VrElZHMWM5U8yR1ibjD5pRESkKvEtAeEFjHxYLQp_fDXDXR8z5hKGTWlZ--u4qB7AUmHgf3Q0NQjAN-pHcDVMEW9sJsPbN1gGQnCH6ImFAZRpMy6BAlIGfUHZUIuIk9vLUHp9px-nNzK6cBrJveKSxW5p33HED5aDfMyBhIWGznMQ099ZRh_DCRYL1aduUKHqQoQWg3GsXGByEbFreYyO2AQ0JgXjNbI4BsJ6L4D5v7rvhZoMWD9dTiUFFidc0kPJ7hRPG4ucfIJwoAFnYfYI55wU7k=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a500000e05527aa_0%7C25c322f54a5a00001ce6b565_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=Cqp4IWeTfj4_JZe_e_E-jT8EVXH4iMbC3jcTQtYelXs0rJu-z6uqZGqFK-QAkU1_NPuQVCfJoaGyHKHvpe1mC8vn_PC53Uzc4j8fsk_4JoT8_MKjfrDR7zuyCQRjNeMWvkmflUAGBeZmwpP94VrElZHMWM5U8yR1ibjD5pRESkKvEtAeEFjHxYLQp_fDXDXR8z5hKGTWlZ--u4qB7AUmHgf3Q0NQjAN-pHcDVMEW9sJsPbN1gGQnCH6ImFAZRpMy6BAlIGfUHZUIuIk9vLUHp9px-nNzK6cBrJveKSxW5p33HED5aDfMyBhIWGznMQ099ZRh_DCRYL1aduUKHqQoQWg3GsXGByEbFreYyO2AQ0JgXjNbI4BsJ6L4D5v7rvhZoMWD9dTiUFFidc0kPJ7hRPG4ucfIJwoAFnYfYI55wU7k=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-01T09:30:00.000Z",
+        "utc_arrival": "2022-02-01T08:30:00.000Z",
+        "local_departure": "2022-02-01T07:10:00.000Z",
+        "utc_departure": "2022-02-01T07:10:00.000Z"
+    },
+    {
+        "id": "18ff25c34a500000e05527aa_0|25c322f54a590000d0333dff_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 110.666555,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4500,
+            "total": 9300
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 60.33,
+            "2": 131.2
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a500000e05527aa_0",
+                "combination_id": "18ff25c34a500000e05527aa",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2431,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2431",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:30:03.000Z",
+                "refresh_timestamp": "2022-01-06T00:30:03.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-01T09:30:00.000Z",
+                "utc_arrival": "2022-02-01T08:30:00.000Z",
+                "local_departure": "2022-02-01T07:10:00.000Z",
+                "utc_departure": "2022-02-01T07:10:00.000Z"
+            },
+            {
+                "id": "25c322f54a590000d0333dff_0",
+                "combination_id": "25c322f54a590000d0333dff",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-10T07:35:00.000Z",
+                "utc_arrival": "2022-02-10T07:35:00.000Z",
+                "local_departure": "2022-02-10T07:20:00.000Z",
+                "utc_departure": "2022-02-10T06:20:00.000Z"
+            }
+        ],
+        "booking_token": "C841tdyHnJtF0YjdzC6o_-5PzLaitrbOr_CgyMrgVTtN0Pe-SLvVMvT3ljcZ5PTkv0FV25xZ0e-CxU144Nd2x9W4jdKHPUuaSexYB5MzjFIcNpAjeHbP8SA4galCn8HiqDlYmZr8OkoVfV6YjY5y3l_dABUuenPj03afLIijHPzFshIFNMYxeq7pnMz7qZBiCHwqKMVx30eG6S9lzcYuHMKQQ00L4j7RVwct4hZG_E62M3kqpFp-r43cnMlQsleRhaS7Fqm2ndl_M-3JbytDoo4H8iWNH_NRWDjtDRQzTaJ3g5YdbGFwuetEI2qpEkznlDIDLIF-poGSpylVwBOriEaemYoWGQ7OfHH0AMCZZNbl8fAIbhALl2Aycc4aYZ35XVuA3g5ApYwLCorixqyn5pRMhTt8DFRoGttGbcD1vcjM=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a500000e05527aa_0%7C25c322f54a590000d0333dff_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C841tdyHnJtF0YjdzC6o_-5PzLaitrbOr_CgyMrgVTtN0Pe-SLvVMvT3ljcZ5PTkv0FV25xZ0e-CxU144Nd2x9W4jdKHPUuaSexYB5MzjFIcNpAjeHbP8SA4galCn8HiqDlYmZr8OkoVfV6YjY5y3l_dABUuenPj03afLIijHPzFshIFNMYxeq7pnMz7qZBiCHwqKMVx30eG6S9lzcYuHMKQQ00L4j7RVwct4hZG_E62M3kqpFp-r43cnMlQsleRhaS7Fqm2ndl_M-3JbytDoo4H8iWNH_NRWDjtDRQzTaJ3g5YdbGFwuetEI2qpEkznlDIDLIF-poGSpylVwBOriEaemYoWGQ7OfHH0AMCZZNbl8fAIbhALl2Aycc4aYZ35XVuA3g5ApYwLCorixqyn5pRMhTt8DFRoGttGbcD1vcjM=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-01T09:30:00.000Z",
+        "utc_arrival": "2022-02-01T08:30:00.000Z",
+        "local_departure": "2022-02-01T07:10:00.000Z",
+        "utc_departure": "2022-02-01T07:10:00.000Z"
+    },
+    {
+        "id": "18ff25c34a51000031fba616_0|25c322f54a590000d0333dff_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 110.666555,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4500,
+            "total": 9300
+        },
+        "price": 55,
+        "conversion": {
+            "GBP": 55,
+            "EUR": 66
+        },
+        "bags_price": {
+            "1": 60.33,
+            "2": 131.2
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a51000031fba616_0",
+                "combination_id": "18ff25c34a51000031fba616",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2431,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2431",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:30:03.000Z",
+                "refresh_timestamp": "2022-01-06T00:30:03.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T09:30:00.000Z",
+                "utc_arrival": "2022-02-02T08:30:00.000Z",
+                "local_departure": "2022-02-02T07:10:00.000Z",
+                "utc_departure": "2022-02-02T07:10:00.000Z"
+            },
+            {
+                "id": "25c322f54a590000d0333dff_0",
+                "combination_id": "25c322f54a590000d0333dff",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:28:11.000Z",
+                "refresh_timestamp": "2022-01-06T00:28:11.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-10T07:35:00.000Z",
+                "utc_arrival": "2022-02-10T07:35:00.000Z",
+                "local_departure": "2022-02-10T07:20:00.000Z",
+                "utc_departure": "2022-02-10T06:20:00.000Z"
+            }
+        ],
+        "booking_token": "CEa4Yz9wb-GNFjGsXyu4lUS9q2-mFAWfqQ-I70M-g1ygHddfDnCh7hwIxksTXJUsZYYWReT6TgEqIzt1LtU8v4u0-tZnFKCxzAugUe8wggtJ4RqGvi2jhVnuxFjBruTzl3oLZ1vKWroTsn0eg_PpMKYO4WF0b2YsNocT1MbgeUv8P4IVeyqXMDbwTtvSmAaaHf3bbprxymPkHZxKSwkKcpUnnbpOvZ0Yyc3sDlfvWYMnws0wbEw4D2O6fAxBBhEMcinlUJiQAaeh7icgjRCtEnBbyCOhZsZjg1cSEPlB-6pTWZlnes_a8kFe7Dq-7xeH42ujPR2lX_CRarFnIbKJxjymx3VnyzdjYFoiEqKpUKz_MVHMuOX2joPQ9g3_Rs1JRgU3MSELKz0woOQnf5_fIXn0RDm1XvUzMrgPql2CDinE=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a51000031fba616_0%7C25c322f54a590000d0333dff_0&price=66&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CEa4Yz9wb-GNFjGsXyu4lUS9q2-mFAWfqQ-I70M-g1ygHddfDnCh7hwIxksTXJUsZYYWReT6TgEqIzt1LtU8v4u0-tZnFKCxzAugUe8wggtJ4RqGvi2jhVnuxFjBruTzl3oLZ1vKWroTsn0eg_PpMKYO4WF0b2YsNocT1MbgeUv8P4IVeyqXMDbwTtvSmAaaHf3bbprxymPkHZxKSwkKcpUnnbpOvZ0Yyc3sDlfvWYMnws0wbEw4D2O6fAxBBhEMcinlUJiQAaeh7icgjRCtEnBbyCOhZsZjg1cSEPlB-6pTWZlnes_a8kFe7Dq-7xeH42ujPR2lX_CRarFnIbKJxjymx3VnyzdjYFoiEqKpUKz_MVHMuOX2joPQ9g3_Rs1JRgU3MSELKz0woOQnf5_fIXn0RDm1XvUzMrgPql2CDinE=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T09:30:00.000Z",
+        "utc_arrival": "2022-02-02T08:30:00.000Z",
+        "local_departure": "2022-02-02T07:10:00.000Z",
+        "utc_departure": "2022-02-02T07:10:00.000Z"
+    },
+    {
+        "id": "18ff25c34a82000021234e67_0|25c322f54a8a00004a9fbebd_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 110.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a82000021234e67_0",
+                "combination_id": "18ff25c34a82000021234e67",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-23T20:55:00.000Z",
+                "utc_arrival": "2022-03-23T19:55:00.000Z",
+                "local_departure": "2022-03-23T18:40:00.000Z",
+                "utc_departure": "2022-03-23T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a00004a9fbebd_0",
+                "combination_id": "25c322f54a8a00004a9fbebd",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8324,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T11:00:00.000Z",
+                "utc_arrival": "2022-03-31T10:00:00.000Z",
+                "local_departure": "2022-03-31T10:50:00.000Z",
+                "utc_departure": "2022-03-31T08:50:00.000Z"
+            }
+        ],
+        "booking_token": "CFtgE5eYSMl1xNHiaB9Z9zwxI8-jet0CgOrDciVKGO1XIB3DRAgBTSJpBBTE4MHFhDCJu3iYE36uMxOYplIqi_z8mCDmwavl-HsQEIJd1ugZRgDmFWVWy6BnJfQgm0Ao3uMC-1yusvNEmXDYyNdCPJjWymcjHaBhcaZrVCIluDtjgSkhTyJnw8tEPderS6bhVcc9GQROWE1zKbO7UCeoAGONCQfj9l1lvWCU-NZg8yGN1lKjCtAeYUviXTvmLTMUSfqWBzmJFO_fnar93G1tuLY36e0UTr9vgDcktp_iDBgBwVHJTS93VfhQxc7wRWoNrmvAQVoUsvmKnfgtvqqAB7DCFMYOEQKXlqJag0hr8xcmBlMCoCX_jVOt_t1rOCRotUSNUF5cQX8mdnu194P9b0IEbOSdax9MFEOzXF0yjH18=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a82000021234e67_0%7C25c322f54a8a00004a9fbebd_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CFtgE5eYSMl1xNHiaB9Z9zwxI8-jet0CgOrDciVKGO1XIB3DRAgBTSJpBBTE4MHFhDCJu3iYE36uMxOYplIqi_z8mCDmwavl-HsQEIJd1ugZRgDmFWVWy6BnJfQgm0Ao3uMC-1yusvNEmXDYyNdCPJjWymcjHaBhcaZrVCIluDtjgSkhTyJnw8tEPderS6bhVcc9GQROWE1zKbO7UCeoAGONCQfj9l1lvWCU-NZg8yGN1lKjCtAeYUviXTvmLTMUSfqWBzmJFO_fnar93G1tuLY36e0UTr9vgDcktp_iDBgBwVHJTS93VfhQxc7wRWoNrmvAQVoUsvmKnfgtvqqAB7DCFMYOEQKXlqJag0hr8xcmBlMCoCX_jVOt_t1rOCRotUSNUF5cQX8mdnu194P9b0IEbOSdax9MFEOzXF0yjH18=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-23T20:55:00.000Z",
+        "utc_arrival": "2022-03-23T19:55:00.000Z",
+        "local_departure": "2022-03-23T18:40:00.000Z",
+        "utc_departure": "2022-03-23T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a82000021234e67_0|25c322f54a8a0000a3fc1b88_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 110.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 56,
+        "conversion": {
+            "EUR": 67,
+            "GBP": 56
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a82000021234e67_0",
+                "combination_id": "18ff25c34a82000021234e67",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-23T20:55:00.000Z",
+                "utc_arrival": "2022-03-23T19:55:00.000Z",
+                "local_departure": "2022-03-23T18:40:00.000Z",
+                "utc_departure": "2022-03-23T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a0000a3fc1b88_0",
+                "combination_id": "25c322f54a8a0000a3fc1b88",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T07:25:00.000Z",
+                "utc_arrival": "2022-03-31T06:25:00.000Z",
+                "local_departure": "2022-03-31T07:15:00.000Z",
+                "utc_departure": "2022-03-31T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CJ4CKy9F7dQerQ2IgQ3vKooZ0oHi_cV5u-7AmSGetcNpabRFv4X3P8GwyiPsS9lT6kRpOD6ep4Tjqksn2iOJ0oQGkoDh2qbvRHMa2EG9QhHgMBqKOUyUBlf7Ur98-wQO0vCk-qpcAwBRLRNWdxfszBLYNXVMSryzsVZ5LEUA052tU248pyRbMYw0wvIkpyQZYfyUKA8SsuNlvj9UlGp0RFeQc3UrpCSGZtfNc3HzXQVtQOCYRypPQWyrISGWmpV90RJox9R6nd60Apw7GN96CKdPz-aS5tXIpEO4u2ZoWl0jA_uqD24IGg0RKZZBdJz_PNIZLba1BYTBb3SkN0HrpVxgdqAqDnqQ0ZcSC3TKZkk14EGMmjN7WAiBUiNusQVJ1e9CYnDTG1wfCFMw34d6nGYCFh5NjZn33azMNBqi7K8g=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a82000021234e67_0%7C25c322f54a8a0000a3fc1b88_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CJ4CKy9F7dQerQ2IgQ3vKooZ0oHi_cV5u-7AmSGetcNpabRFv4X3P8GwyiPsS9lT6kRpOD6ep4Tjqksn2iOJ0oQGkoDh2qbvRHMa2EG9QhHgMBqKOUyUBlf7Ur98-wQO0vCk-qpcAwBRLRNWdxfszBLYNXVMSryzsVZ5LEUA052tU248pyRbMYw0wvIkpyQZYfyUKA8SsuNlvj9UlGp0RFeQc3UrpCSGZtfNc3HzXQVtQOCYRypPQWyrISGWmpV90RJox9R6nd60Apw7GN96CKdPz-aS5tXIpEO4u2ZoWl0jA_uqD24IGg0RKZZBdJz_PNIZLba1BYTBb3SkN0HrpVxgdqAqDnqQ0ZcSC3TKZkk14EGMmjN7WAiBUiNusQVJ1e9CYnDTG1wfCFMw34d6nGYCFh5NjZn33azMNBqi7K8g=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-23T20:55:00.000Z",
+        "utc_arrival": "2022-03-23T19:55:00.000Z",
+        "local_departure": "2022-03-23T18:40:00.000Z",
+        "utc_departure": "2022-03-23T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a82000021234e67_0|25c322f54a8900006447f0ec_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 7,
+        "quality": 110.333225,
+        "distance": 380,
+        "duration": {
+            "departure": 4500,
+            "return": 4200,
+            "total": 8700
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a82000021234e67_0",
+                "combination_id": "18ff25c34a82000021234e67",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2441,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2441",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-23T20:55:00.000Z",
+                "utc_arrival": "2022-03-23T19:55:00.000Z",
+                "local_departure": "2022-03-23T18:40:00.000Z",
+                "utc_departure": "2022-03-23T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8900006447f0ec_0",
+                "combination_id": "25c322f54a8900006447f0ec",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-30T07:25:00.000Z",
+                "utc_arrival": "2022-03-30T06:25:00.000Z",
+                "local_departure": "2022-03-30T07:15:00.000Z",
+                "utc_departure": "2022-03-30T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "Cf-bC_Nd4qfe3ED_E83Vd5F-B9tejqzqrsG8-Oa_i19mZavEwVf8DFSZgUwLDtZC1-VoDeB3M5DtLAGws7f471wT7THnYcMBPeAwiZTYZAS5gzHJXVAF6-8XImcCKr-Ulxle8zv-yi2vvVzkcGq0ORNippe3bYqEbLSoVJPM4Gil3_VBWlpYo6t6ZqABr-v-RjU_LDEMWw37d9KF-ldnvHhid-Z3EGnyysZmJOjyiBHwA7PhFf9kfy600UVZ5Hlpj1jZj0XUUVHWDbDzGXH10bgMswAfk26kwu_0G36nIVKMQ-vtJW8i9SoJSh1msled3XEs4A2tH8r69tH0_n38L3HOdKi2K6PvPiCy6EJEe0j1XTYDWcL_cZF2Huv1_MFHRyjmiyc7vemk_iWXECFngBMtlGzJmeK2gK42ZMP0r-XE=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a82000021234e67_0%7C25c322f54a8900006447f0ec_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=Cf-bC_Nd4qfe3ED_E83Vd5F-B9tejqzqrsG8-Oa_i19mZavEwVf8DFSZgUwLDtZC1-VoDeB3M5DtLAGws7f471wT7THnYcMBPeAwiZTYZAS5gzHJXVAF6-8XImcCKr-Ulxle8zv-yi2vvVzkcGq0ORNippe3bYqEbLSoVJPM4Gil3_VBWlpYo6t6ZqABr-v-RjU_LDEMWw37d9KF-ldnvHhid-Z3EGnyysZmJOjyiBHwA7PhFf9kfy600UVZ5Hlpj1jZj0XUUVHWDbDzGXH10bgMswAfk26kwu_0G36nIVKMQ-vtJW8i9SoJSh1msled3XEs4A2tH8r69tH0_n38L3HOdKi2K6PvPiCy6EJEe0j1XTYDWcL_cZF2Huv1_MFHRyjmiyc7vemk_iWXECFngBMtlGzJmeK2gK42ZMP0r-XE=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-23T20:55:00.000Z",
+        "utc_arrival": "2022-03-23T19:55:00.000Z",
+        "local_departure": "2022-03-23T18:40:00.000Z",
+        "utc_departure": "2022-03-23T18:40:00.000Z"
+    },
+    {
+        "id": "22f525c34a510000e7f4605f_0|25c322f54a6d0000f2727d07_0",
+        "flyFrom": "LGW",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 28,
+        "quality": 110.99989,
+        "distance": 308.04,
+        "duration": {
+            "departure": 4500,
+            "return": 4500,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LGW",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "22f525c34a510000e7f4605f_0",
+                "combination_id": "22f525c34a510000e7f4605f",
+                "flyFrom": "LGW",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 8327,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8327",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:19:17.000Z",
+                "refresh_timestamp": "2022-01-06T00:19:17.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T19:00:00.000Z",
+                "utc_arrival": "2022-02-02T18:00:00.000Z",
+                "local_departure": "2022-02-02T16:45:00.000Z",
+                "utc_departure": "2022-02-02T16:45:00.000Z"
+            },
+            {
+                "id": "25c322f54a6d0000f2727d07_0",
+                "combination_id": "25c322f54a6d0000f2727d07",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:21:54.000Z",
+                "refresh_timestamp": "2022-01-06T00:21:54.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-02T07:35:00.000Z",
+                "utc_arrival": "2022-03-02T07:35:00.000Z",
+                "local_departure": "2022-03-02T07:20:00.000Z",
+                "utc_departure": "2022-03-02T06:20:00.000Z"
+            }
+        ],
+        "booking_token": "CRvOCkkQ014adzBYGnn9ZW3BunbpwB0dR0_FDSX5GKSu6rRPj64jLLTJnUEZHcUXj9-FdRfzwW6mhvrWU-nBR-yZOnZ5yUvD-hMnoRiBvoHn0sR70T3b7KSpPHCYnMUeO-6Rdsgg0y7O84DJkk6uFnGY2cR64kwrz9WQYyMiqV9ybvayoSTA7R5zq4YF74JCLeXDcVvvIYOzcz435QrKA9DCbrNXTFPS7xgio9bC5GW3LsCBXRf3UTsqofxtetiAI4V6VqkmNm1_q_sGD74MHmj8cew3MAa1Z2a_LC52YzaYJtbtuTmzUNCthRnUWPQrE6t_eFUJy0_wQabFZIWgmkL5mESLU84jou-TNbuSINd9JA4vYQFNzX_Qt5xbgVFuvlQupIZ2mvK4N7XLxXg2Zz35TvGG94QL1uirm2GL07rs=",
+        "deep_link": "https://www.kiwi.com/deep?from=LGW&to=CDG&flightsId=22f525c34a510000e7f4605f_0%7C25c322f54a6d0000f2727d07_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CRvOCkkQ014adzBYGnn9ZW3BunbpwB0dR0_FDSX5GKSu6rRPj64jLLTJnUEZHcUXj9-FdRfzwW6mhvrWU-nBR-yZOnZ5yUvD-hMnoRiBvoHn0sR70T3b7KSpPHCYnMUeO-6Rdsgg0y7O84DJkk6uFnGY2cR64kwrz9WQYyMiqV9ybvayoSTA7R5zq4YF74JCLeXDcVvvIYOzcz435QrKA9DCbrNXTFPS7xgio9bC5GW3LsCBXRf3UTsqofxtetiAI4V6VqkmNm1_q_sGD74MHmj8cew3MAa1Z2a_LC52YzaYJtbtuTmzUNCthRnUWPQrE6t_eFUJy0_wQabFZIWgmkL5mESLU84jou-TNbuSINd9JA4vYQFNzX_Qt5xbgVFuvlQupIZ2mvK4N7XLxXg2Zz35TvGG94QL1uirm2GL07rs=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T19:00:00.000Z",
+        "utc_arrival": "2022-02-02T18:00:00.000Z",
+        "local_departure": "2022-02-02T16:45:00.000Z",
+        "utc_departure": "2022-02-02T16:45:00.000Z"
+    },
+    {
+        "id": "22f525c34a510000e7f4605f_0|25c322f54a6c00003ea01061_0",
+        "flyFrom": "LGW",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 27,
+        "quality": 110.99989,
+        "distance": 308.04,
+        "duration": {
+            "departure": 4500,
+            "return": 4500,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LGW",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "22f525c34a510000e7f4605f_0",
+                "combination_id": "22f525c34a510000e7f4605f",
+                "flyFrom": "LGW",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 8327,
+                "operating_carrier": "U2",
+                "operating_flight_no": "8327",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:19:17.000Z",
+                "refresh_timestamp": "2022-01-06T00:19:17.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-02-02T19:00:00.000Z",
+                "utc_arrival": "2022-02-02T18:00:00.000Z",
+                "local_departure": "2022-02-02T16:45:00.000Z",
+                "utc_departure": "2022-02-02T16:45:00.000Z"
+            },
+            {
+                "id": "25c322f54a6c00003ea01061_0",
+                "combination_id": "25c322f54a6c00003ea01061",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:21:54.000Z",
+                "refresh_timestamp": "2022-01-06T00:21:54.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-01T07:35:00.000Z",
+                "utc_arrival": "2022-03-01T07:35:00.000Z",
+                "local_departure": "2022-03-01T07:20:00.000Z",
+                "utc_departure": "2022-03-01T06:20:00.000Z"
+            }
+        ],
+        "booking_token": "CR_oEILoDXLAuP7JEwNkTcOkAEk-FClcPxsmPcUzuKiA8z4m3wiPt4PSOKwlg_YeMEZysHFoOlY-nJ6vqailFRjvDtIGHszpHr5ZVeFJK9oISV13xjgJ55PIUnbVjRH9iIhuzluxNXuuM5x70DLSyswB53mrxkGK18DqjAp9Oy5zxIBuQM6ue7LeWdl-ivld2iemPS14y7uIBMlPrQnask8i6L0IyBOoFnvhbzsjSMRWmEgiH9YTbUSY0X2Sk-TXSsZ-1Hscq24ibySRjzi1CmhzHPelnyYsSN8JvH5iVDT8ANNp-wCkksHAynbtAUZv_yWWdjSf4U2u0_dyNtEu3iLaAUDrM-aY22RqspmSVpB_DbwV4sY8NR5u3mg-XcV4UCtqsxtC13mafgg7bgr4kb0p2HiMjOjeaFDcyU65GcUI=",
+        "deep_link": "https://www.kiwi.com/deep?from=LGW&to=CDG&flightsId=22f525c34a510000e7f4605f_0%7C25c322f54a6c00003ea01061_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CR_oEILoDXLAuP7JEwNkTcOkAEk-FClcPxsmPcUzuKiA8z4m3wiPt4PSOKwlg_YeMEZysHFoOlY-nJ6vqailFRjvDtIGHszpHr5ZVeFJK9oISV13xjgJ55PIUnbVjRH9iIhuzluxNXuuM5x70DLSyswB53mrxkGK18DqjAp9Oy5zxIBuQM6ue7LeWdl-ivld2iemPS14y7uIBMlPrQnask8i6L0IyBOoFnvhbzsjSMRWmEgiH9YTbUSY0X2Sk-TXSsZ-1Hscq24ibySRjzi1CmhzHPelnyYsSN8JvH5iVDT8ANNp-wCkksHAynbtAUZv_yWWdjSf4U2u0_dyNtEu3iLaAUDrM-aY22RqspmSVpB_DbwV4sY8NR5u3mg-XcV4UCtqsxtC13mafgg7bgr4kb0p2HiMjOjeaFDcyU65GcUI=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-02-02T19:00:00.000Z",
+        "utc_arrival": "2022-02-02T18:00:00.000Z",
+        "local_departure": "2022-02-02T16:45:00.000Z",
+        "utc_departure": "2022-02-02T16:45:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000003fdfe42_0|25c322f54a88000066f4347c_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 7,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 7
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000003fdfe42_0",
+                "combination_id": "18ff25c34a81000003fdfe42",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T14:20:00.000Z",
+                "utc_arrival": "2022-03-22T13:20:00.000Z",
+                "local_departure": "2022-03-22T12:00:00.000Z",
+                "utc_departure": "2022-03-22T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a88000066f4347c_0",
+                "combination_id": "25c322f54a88000066f4347c",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-29T07:25:00.000Z",
+                "utc_arrival": "2022-03-29T06:25:00.000Z",
+                "local_departure": "2022-03-29T07:15:00.000Z",
+                "utc_departure": "2022-03-29T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CwfoQ3_00064uCDfCVNu0dtGTRKOELvaO93WGx-SbrFWqb0sck_iBhe7wVaelZVxN7jfJlu8TFNTdjdAFEWMoHUisHRsZy5wVRGI-3e1gPuS5fu4Ly_7estXzwe7KIcx-7mPk4Ork407BecpHi5QvBixpBsicQSF4Co9NhPAcTAvqAIL32orriOJnPOErNiAnql6eLi6EbHBGtUkyfjC4DgvH2yIgAAMxdE_IbdcYVazQtgaoVvF-45QQ9QGBB-RqObGxVazJr3WZBqB6jNghXo4-k8aYLouCtMRZ644neL1RrRtVnX7hTsYV-2k2hRypCjOGEsZqBFv0PbtXWs_FZ2Sq0jXjH6D6QhXKYBQJxwA4pY2odjyHd0i7_BN0iV6p6Fj2NRXNLX1WwiBCWNtCMRR5cp0sun5Yjl1PGLCrPnU=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000003fdfe42_0%7C25c322f54a88000066f4347c_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CwfoQ3_00064uCDfCVNu0dtGTRKOELvaO93WGx-SbrFWqb0sck_iBhe7wVaelZVxN7jfJlu8TFNTdjdAFEWMoHUisHRsZy5wVRGI-3e1gPuS5fu4Ly_7estXzwe7KIcx-7mPk4Ork407BecpHi5QvBixpBsicQSF4Co9NhPAcTAvqAIL32orriOJnPOErNiAnql6eLi6EbHBGtUkyfjC4DgvH2yIgAAMxdE_IbdcYVazQtgaoVvF-45QQ9QGBB-RqObGxVazJr3WZBqB6jNghXo4-k8aYLouCtMRZ644neL1RrRtVnX7hTsYV-2k2hRypCjOGEsZqBFv0PbtXWs_FZ2Sq0jXjH6D6QhXKYBQJxwA4pY2odjyHd0i7_BN0iV6p6Fj2NRXNLX1WwiBCWNtCMRR5cp0sun5Yjl1PGLCrPnU=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T14:20:00.000Z",
+        "utc_arrival": "2022-03-22T13:20:00.000Z",
+        "local_departure": "2022-03-22T12:00:00.000Z",
+        "utc_departure": "2022-03-22T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a73000073ff63db_0|25c322f54a88000066f4347c_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 21,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 5
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a73000073ff63db_0",
+                "combination_id": "18ff25c34a73000073ff63db",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:36:45.000Z",
+                "refresh_timestamp": "2022-01-06T00:36:45.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-08T14:20:00.000Z",
+                "utc_arrival": "2022-03-08T13:20:00.000Z",
+                "local_departure": "2022-03-08T12:00:00.000Z",
+                "utc_departure": "2022-03-08T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a88000066f4347c_0",
+                "combination_id": "25c322f54a88000066f4347c",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-29T07:25:00.000Z",
+                "utc_arrival": "2022-03-29T06:25:00.000Z",
+                "local_departure": "2022-03-29T07:15:00.000Z",
+                "utc_departure": "2022-03-29T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CU7GGgSoEJg1kAsPRwfonYvztSB_mHdhUnK8v_1rwMZdMSzsQviS_FSsYK9IWnXBkpiXmjsqhZriXi2AztuBJmkMGGKjVi8w6t4Fsm0S69hIXK9UaKnDOpaiJJLwiOMqKdDejOngjfzAkwzlwPKRAzFLBUpKVKmHt8wfNC4SzSs0mOmsuMEx59sqdpY3pGIvhcA_ObnYH-QK8sKG8CiWAZraCf1ntFw_wLAPxIaYfdD56aF4-c8ZmWjkWEkNagyB25VXhxDhCAoeSowYuXZvF_stB7ZrhetUTDPh2cDVQ1V07tofx8ktM5Tbcp4uXPbOETZNTYosZ1PQP2oWxkUWtV6cB5sYCq18B6bglzPr8iPeMFpTf7ISqHr1nbhQtG6jdZr5jlRNgo8KaXv8B-BULh6drXych0PqIWXOyXSTjS-k=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a73000073ff63db_0%7C25c322f54a88000066f4347c_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CU7GGgSoEJg1kAsPRwfonYvztSB_mHdhUnK8v_1rwMZdMSzsQviS_FSsYK9IWnXBkpiXmjsqhZriXi2AztuBJmkMGGKjVi8w6t4Fsm0S69hIXK9UaKnDOpaiJJLwiOMqKdDejOngjfzAkwzlwPKRAzFLBUpKVKmHt8wfNC4SzSs0mOmsuMEx59sqdpY3pGIvhcA_ObnYH-QK8sKG8CiWAZraCf1ntFw_wLAPxIaYfdD56aF4-c8ZmWjkWEkNagyB25VXhxDhCAoeSowYuXZvF_stB7ZrhetUTDPh2cDVQ1V07tofx8ktM5Tbcp4uXPbOETZNTYosZ1PQP2oWxkUWtV6cB5sYCq18B6bglzPr8iPeMFpTf7ISqHr1nbhQtG6jdZr5jlRNgo8KaXv8B-BULh6drXych0PqIWXOyXSTjS-k=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-08T14:20:00.000Z",
+        "utc_arrival": "2022-03-08T13:20:00.000Z",
+        "local_departure": "2022-03-08T12:00:00.000Z",
+        "utc_departure": "2022-03-08T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a73000073ff63db_0|25c322f54a8a0000a3fc1b88_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 23,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 5
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a73000073ff63db_0",
+                "combination_id": "18ff25c34a73000073ff63db",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:36:45.000Z",
+                "refresh_timestamp": "2022-01-06T00:36:45.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-08T14:20:00.000Z",
+                "utc_arrival": "2022-03-08T13:20:00.000Z",
+                "local_departure": "2022-03-08T12:00:00.000Z",
+                "utc_departure": "2022-03-08T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a0000a3fc1b88_0",
+                "combination_id": "25c322f54a8a0000a3fc1b88",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T07:25:00.000Z",
+                "utc_arrival": "2022-03-31T06:25:00.000Z",
+                "local_departure": "2022-03-31T07:15:00.000Z",
+                "utc_departure": "2022-03-31T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "Cv76b0Fond0YzDHs7wClSSvj8TemSnYbL5YUUNhTa5T6t6zSF3qYNaC6WVdMxDobDd0X1YhSuBRKJDIZTr0KyhqRlBIgXxZxU9uYUzeZ09mhz8hMU3uP5a8rWvHWsCgkbptBJzy5X4zQ0pmWEL5QSXwzTZ2RQAjSwU-unM2suLKK1PSi2FA0mXJ5FeFfOsr_pAE9Ce59IdlFWwrFjgPj4o8yrXRURt6ayl5bbi_cCDEwTVQ600C9DXBys7rygXfl0b8t-zXQb-9HCcTArhsbb0K6cFTm-yZ0fESBi3bMDpD_246QXwH-JbMdJAdouGyoy52oUOLv0SHvQcK2Vw3wati48O3oUL9ON0dIFgTflqKbznQYdoMgecvBS1wLzKBBnP2kxuWxs9hoCjB1f9Q3rcU9wiETllKlR_a1k47tbnH4=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a73000073ff63db_0%7C25c322f54a8a0000a3fc1b88_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=Cv76b0Fond0YzDHs7wClSSvj8TemSnYbL5YUUNhTa5T6t6zSF3qYNaC6WVdMxDobDd0X1YhSuBRKJDIZTr0KyhqRlBIgXxZxU9uYUzeZ09mhz8hMU3uP5a8rWvHWsCgkbptBJzy5X4zQ0pmWEL5QSXwzTZ2RQAjSwU-unM2suLKK1PSi2FA0mXJ5FeFfOsr_pAE9Ce59IdlFWwrFjgPj4o8yrXRURt6ayl5bbi_cCDEwTVQ600C9DXBys7rygXfl0b8t-zXQb-9HCcTArhsbb0K6cFTm-yZ0fESBi3bMDpD_246QXwH-JbMdJAdouGyoy52oUOLv0SHvQcK2Vw3wati48O3oUL9ON0dIFgTflqKbznQYdoMgecvBS1wLzKBBnP2kxuWxs9hoCjB1f9Q3rcU9wiETllKlR_a1k47tbnH4=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-08T14:20:00.000Z",
+        "utc_arrival": "2022-03-08T13:20:00.000Z",
+        "local_departure": "2022-03-08T12:00:00.000Z",
+        "utc_departure": "2022-03-08T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000003fdfe42_0|25c322f54a8a00004a9fbebd_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "EUR": 67,
+            "GBP": 56
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 7
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000003fdfe42_0",
+                "combination_id": "18ff25c34a81000003fdfe42",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T14:20:00.000Z",
+                "utc_arrival": "2022-03-22T13:20:00.000Z",
+                "local_departure": "2022-03-22T12:00:00.000Z",
+                "utc_departure": "2022-03-22T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a00004a9fbebd_0",
+                "combination_id": "25c322f54a8a00004a9fbebd",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8324,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T11:00:00.000Z",
+                "utc_arrival": "2022-03-31T10:00:00.000Z",
+                "local_departure": "2022-03-31T10:50:00.000Z",
+                "utc_departure": "2022-03-31T08:50:00.000Z"
+            }
+        ],
+        "booking_token": "CAJCUuSpXpymg9kMUN5rVjdir1xqVTX5-HGnAPjWG9MortEkbKM5gNb-0sIUhbRYMx0Kyy73cBMpScj0B_Au1wnufPNt6MGnLz1ywDXwjwN_jFs8bKOk7W6Z6aLj_dwRGS_RkcOjEWp8c3RHiLH3Z1-_71vGb6i9Jr7qucKXfkKh3NXrEZ6YjqIrzaPZe-1TttG1kAfPfOCypjF4Ob2W2Y2GuF1KBg1U-oTx4TxilzosUC9WMjNxhe6ZMzYGaNfBD221gDCox4Z6x7_GStOwZx03KAoIafbJRZj8jPHVjv6ShFk-ZIQ3wCYyzIMp8Q-pGMKnvplsSyjANv8W6Gea4ralVtIaF_DvsXHkEdX4MeoARTXwPqmTC3cYbhpD6DXJI2C5Wf9dKUpOT5oI-kG6cYDc2ymeMRmk3Y6w-zB65W0w=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000003fdfe42_0%7C25c322f54a8a00004a9fbebd_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CAJCUuSpXpymg9kMUN5rVjdir1xqVTX5-HGnAPjWG9MortEkbKM5gNb-0sIUhbRYMx0Kyy73cBMpScj0B_Au1wnufPNt6MGnLz1ywDXwjwN_jFs8bKOk7W6Z6aLj_dwRGS_RkcOjEWp8c3RHiLH3Z1-_71vGb6i9Jr7qucKXfkKh3NXrEZ6YjqIrzaPZe-1TttG1kAfPfOCypjF4Ob2W2Y2GuF1KBg1U-oTx4TxilzosUC9WMjNxhe6ZMzYGaNfBD221gDCox4Z6x7_GStOwZx03KAoIafbJRZj8jPHVjv6ShFk-ZIQ3wCYyzIMp8Q-pGMKnvplsSyjANv8W6Gea4ralVtIaF_DvsXHkEdX4MeoARTXwPqmTC3cYbhpD6DXJI2C5Wf9dKUpOT5oI-kG6cYDc2ymeMRmk3Y6w-zB65W0w=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T14:20:00.000Z",
+        "utc_arrival": "2022-03-22T13:20:00.000Z",
+        "local_departure": "2022-03-22T12:00:00.000Z",
+        "utc_departure": "2022-03-22T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000003fdfe42_0|25c322f54a8a0000a3fc1b88_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 9,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 7
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000003fdfe42_0",
+                "combination_id": "18ff25c34a81000003fdfe42",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T14:20:00.000Z",
+                "utc_arrival": "2022-03-22T13:20:00.000Z",
+                "local_departure": "2022-03-22T12:00:00.000Z",
+                "utc_departure": "2022-03-22T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a0000a3fc1b88_0",
+                "combination_id": "25c322f54a8a0000a3fc1b88",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T07:25:00.000Z",
+                "utc_arrival": "2022-03-31T06:25:00.000Z",
+                "local_departure": "2022-03-31T07:15:00.000Z",
+                "utc_departure": "2022-03-31T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CO2GRjeL3_tw6yWHE9RwKrxz78n25oX_Ag_aB9X-MpFfSUinNKyGpQ6fSkBTAloaB8oliksYi1yqMQObiVVvIZR8Ll31DmPa7Oh_bL_sRdx38F305Zref1nwytTqUBsQKwfBtfPUxZgZVeUWVEBoE_Ds8U4iN0JPQ_-CowG2cP-KtGnjcyFZjy9nLo5uN7DFltil5yCP94sFUw_X3C0oKHuF1KBxir29h6j5hmyEvC6kyPGwp6bNTChSBm6eIxiQJiOf3TqCBXwPKfDMocpCXVBgCSEo7lA0ZRhTWLm-QDClVN49E8qCnweRoowGHZfWc_-zNcFI4F4Pl--min3w9Zfo2aLddMVt3zcmJzVCSkxIJSU5XJif3xq0PDVIp0zeFt2SV0sENYpLc97THPud0dG0cKIsDBbCBULfpB9a4g18=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000003fdfe42_0%7C25c322f54a8a0000a3fc1b88_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CO2GRjeL3_tw6yWHE9RwKrxz78n25oX_Ag_aB9X-MpFfSUinNKyGpQ6fSkBTAloaB8oliksYi1yqMQObiVVvIZR8Ll31DmPa7Oh_bL_sRdx38F305Zref1nwytTqUBsQKwfBtfPUxZgZVeUWVEBoE_Ds8U4iN0JPQ_-CowG2cP-KtGnjcyFZjy9nLo5uN7DFltil5yCP94sFUw_X3C0oKHuF1KBxir29h6j5hmyEvC6kyPGwp6bNTChSBm6eIxiQJiOf3TqCBXwPKfDMocpCXVBgCSEo7lA0ZRhTWLm-QDClVN49E8qCnweRoowGHZfWc_-zNcFI4F4Pl--min3w9Zfo2aLddMVt3zcmJzVCSkxIJSU5XJif3xq0PDVIp0zeFt2SV0sENYpLc97THPud0dG0cKIsDBbCBULfpB9a4g18=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T14:20:00.000Z",
+        "utc_arrival": "2022-03-22T13:20:00.000Z",
+        "local_departure": "2022-03-22T12:00:00.000Z",
+        "utc_departure": "2022-03-22T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a7e0000ed11c767_0|25c322f54a8a0000a3fc1b88_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 12,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a7e0000ed11c767_0",
+                "combination_id": "18ff25c34a7e0000ed11c767",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2443,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2443",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T21:51:50.000Z",
+                "refresh_timestamp": "2022-01-05T21:51:50.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-19T21:00:00.000Z",
+                "utc_arrival": "2022-03-19T20:00:00.000Z",
+                "local_departure": "2022-03-19T18:40:00.000Z",
+                "utc_departure": "2022-03-19T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a0000a3fc1b88_0",
+                "combination_id": "25c322f54a8a0000a3fc1b88",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T07:25:00.000Z",
+                "utc_arrival": "2022-03-31T06:25:00.000Z",
+                "local_departure": "2022-03-31T07:15:00.000Z",
+                "utc_departure": "2022-03-31T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "C2Jph2XniFIw-LyM3uZorgyGQPxb-LuoMGI-3KZ-Zjrq3H6c0f4RxmBgkwi0gXWx6KKXOPLOeFIm04nT3w8smAinBvIMXD_8zdEtILa2tpGNr_6hPBnlIFP555mwlROO7TgdAl0zlR1IqlZ6vRc_iskVlzEZkAFO5J9GMsOUUVi1KHeCovHETojfrVgI7ZfBzyi2C05CrYrKuBCKDdR1LJeTRXx8_vqLEP2hPzImmGnkXPv8MdBPmvZ3FLqs78rrKMV5oNHlYNU35I1MxIzfXoKBGVymJ72ct5LJkbwYmP5lxsJahWCjGTvkCyYXocHG6k8xQ1qDzD7GzXM3J2xCawNqJREzH0a3jiSuqDK1BKtAmTJru0484JfJHWn8m3IGGlUqQ84vdRZvfs3ndnfrNOg==",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a7e0000ed11c767_0%7C25c322f54a8a0000a3fc1b88_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C2Jph2XniFIw-LyM3uZorgyGQPxb-LuoMGI-3KZ-Zjrq3H6c0f4RxmBgkwi0gXWx6KKXOPLOeFIm04nT3w8smAinBvIMXD_8zdEtILa2tpGNr_6hPBnlIFP555mwlROO7TgdAl0zlR1IqlZ6vRc_iskVlzEZkAFO5J9GMsOUUVi1KHeCovHETojfrVgI7ZfBzyi2C05CrYrKuBCKDdR1LJeTRXx8_vqLEP2hPzImmGnkXPv8MdBPmvZ3FLqs78rrKMV5oNHlYNU35I1MxIzfXoKBGVymJ72ct5LJkbwYmP5lxsJahWCjGTvkCyYXocHG6k8xQ1qDzD7GzXM3J2xCawNqJREzH0a3jiSuqDK1BKtAmTJru0484JfJHWn8m3IGGlUqQ84vdRZvfs3ndnfrNOg==",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-19T21:00:00.000Z",
+        "utc_arrival": "2022-03-19T20:00:00.000Z",
+        "local_departure": "2022-03-19T18:40:00.000Z",
+        "utc_departure": "2022-03-19T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a7e0000ed11c767_0|25c322f54a88000066f4347c_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 10,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a7e0000ed11c767_0",
+                "combination_id": "18ff25c34a7e0000ed11c767",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2443,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2443",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T21:51:50.000Z",
+                "refresh_timestamp": "2022-01-05T21:51:50.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-19T21:00:00.000Z",
+                "utc_arrival": "2022-03-19T20:00:00.000Z",
+                "local_departure": "2022-03-19T18:40:00.000Z",
+                "utc_departure": "2022-03-19T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a88000066f4347c_0",
+                "combination_id": "25c322f54a88000066f4347c",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-29T07:25:00.000Z",
+                "utc_arrival": "2022-03-29T06:25:00.000Z",
+                "local_departure": "2022-03-29T07:15:00.000Z",
+                "utc_departure": "2022-03-29T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CGZ-hlnpdh8MuwMC6BqG-aGKbitYBauiS8XJzZ4yz6UrgOnR9QAUBuroCxVsTS36gFN3vRwRRNxtyIstL6AiHP0p8VLtG3dHv6dKTFsely3BG9CgLHuu6Ik4oiS7iEZTiMMycq7ZctUuPmIOV0Ko0olf1SzWQvFY0MSZNrALhzWEwLOy9Maz5vgEwO_IQKZzGyrIBeGnsISj_U7bnK94KyUIpcd0WAB0PO7zAPElf-LuG8saDwkxx_NpyC54jtPxFFpCi4WaDYWz3YL43WeCwkgYVnk6HicPyuKfuvIt633wNu7cs0WpZu-bg3aEp5zoloL3oAdkuIiFEegqaNVIJU4bTyZYlh1n-s6Y6kHBW1fqOiEHf3h1cHasL14THVQ10C5lS6PuexG9pcMX8c1vmQeM5qD4TYiDMwiDbO7P95nY=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a7e0000ed11c767_0%7C25c322f54a88000066f4347c_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CGZ-hlnpdh8MuwMC6BqG-aGKbitYBauiS8XJzZ4yz6UrgOnR9QAUBuroCxVsTS36gFN3vRwRRNxtyIstL6AiHP0p8VLtG3dHv6dKTFsely3BG9CgLHuu6Ik4oiS7iEZTiMMycq7ZctUuPmIOV0Ko0olf1SzWQvFY0MSZNrALhzWEwLOy9Maz5vgEwO_IQKZzGyrIBeGnsISj_U7bnK94KyUIpcd0WAB0PO7zAPElf-LuG8saDwkxx_NpyC54jtPxFFpCi4WaDYWz3YL43WeCwkgYVnk6HicPyuKfuvIt633wNu7cs0WpZu-bg3aEp5zoloL3oAdkuIiFEegqaNVIJU4bTyZYlh1n-s6Y6kHBW1fqOiEHf3h1cHasL14THVQ10C5lS6PuexG9pcMX8c1vmQeM5qD4TYiDMwiDbO7P95nY=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-19T21:00:00.000Z",
+        "utc_arrival": "2022-03-19T20:00:00.000Z",
+        "local_departure": "2022-03-19T18:40:00.000Z",
+        "utc_departure": "2022-03-19T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a73000073ff63db_0|25c322f54a8900006447f0ec_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 22,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 5
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a73000073ff63db_0",
+                "combination_id": "18ff25c34a73000073ff63db",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:36:45.000Z",
+                "refresh_timestamp": "2022-01-06T00:36:45.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-08T14:20:00.000Z",
+                "utc_arrival": "2022-03-08T13:20:00.000Z",
+                "local_departure": "2022-03-08T12:00:00.000Z",
+                "utc_departure": "2022-03-08T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8900006447f0ec_0",
+                "combination_id": "25c322f54a8900006447f0ec",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-30T07:25:00.000Z",
+                "utc_arrival": "2022-03-30T06:25:00.000Z",
+                "local_departure": "2022-03-30T07:15:00.000Z",
+                "utc_departure": "2022-03-30T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "CX1g4C8Eo_yN1EN32mh7ZTyHiHGD2IXbKaHj4l0cAXu286QWKJtlfaaKLnQmckMbVcR8riMJv0zPuJyZB9HKbW4VkOZH0JssiE35D1MdPxm7dXaHMX7qtIjBh2s9_9oPsxHjGTaKL_wH-Jya3x99Su7v5eUALd3uFaYSQyKB5G1bYgmirl0XhuaPNulYVmbEim7gps2GselpCcthB5IDIZe-fGPu76m0H13h63Dlgurz58B5BlrgCnc0aKDiIMcj8tgM_1KLbPcd6SoqKXg0aVIG4n1YhEAMoSCuCjngiLKqZzIjEBVbyLJnTpqdZY7aPhEmSJdBCXHlstcTfZxMMLWLbqctMihVlb9YJFj9hsiK7YNPvHXew6d5CkETNXcFq3Dl3Kb1XOujwc4zBq3wu2SwvOk5Dglp5KjNtImWpky0=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a73000073ff63db_0%7C25c322f54a8900006447f0ec_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CX1g4C8Eo_yN1EN32mh7ZTyHiHGD2IXbKaHj4l0cAXu286QWKJtlfaaKLnQmckMbVcR8riMJv0zPuJyZB9HKbW4VkOZH0JssiE35D1MdPxm7dXaHMX7qtIjBh2s9_9oPsxHjGTaKL_wH-Jya3x99Su7v5eUALd3uFaYSQyKB5G1bYgmirl0XhuaPNulYVmbEim7gps2GselpCcthB5IDIZe-fGPu76m0H13h63Dlgurz58B5BlrgCnc0aKDiIMcj8tgM_1KLbPcd6SoqKXg0aVIG4n1YhEAMoSCuCjngiLKqZzIjEBVbyLJnTpqdZY7aPhEmSJdBCXHlstcTfZxMMLWLbqctMihVlb9YJFj9hsiK7YNPvHXew6d5CkETNXcFq3Dl3Kb1XOujwc4zBq3wu2SwvOk5Dglp5KjNtImWpky0=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-08T14:20:00.000Z",
+        "utc_arrival": "2022-03-08T13:20:00.000Z",
+        "local_departure": "2022-03-08T12:00:00.000Z",
+        "utc_departure": "2022-03-08T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a73000073ff63db_0|25c322f54a8a00004a9fbebd_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 23,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 5
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a73000073ff63db_0",
+                "combination_id": "18ff25c34a73000073ff63db",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-06T00:36:45.000Z",
+                "refresh_timestamp": "2022-01-06T00:36:45.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-08T14:20:00.000Z",
+                "utc_arrival": "2022-03-08T13:20:00.000Z",
+                "local_departure": "2022-03-08T12:00:00.000Z",
+                "utc_departure": "2022-03-08T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a00004a9fbebd_0",
+                "combination_id": "25c322f54a8a00004a9fbebd",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8324,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T11:00:00.000Z",
+                "utc_arrival": "2022-03-31T10:00:00.000Z",
+                "local_departure": "2022-03-31T10:50:00.000Z",
+                "utc_departure": "2022-03-31T08:50:00.000Z"
+            }
+        ],
+        "booking_token": "CX1g4C8Eo_yN1EN32mh7ZTyHiHGD2IXbKaHj4l0cAXu286QWKJtlfaaKLnQmckMbVcR8riMJv0zPuJyZB9HKbW4VkOZH0JssiE35D1MdPxm4Y2I_aRdmr-niVTfH0T59nzLPc5sSgMEGeSV6SPCaO8OUohbF9KVfr3u22-7-tAwymfMZ5rlC1wJJA1IXecxV4nsSsy21U82OUFktbodBSE-J6pfcpACCHNgj3cFSS8KV7n4GdrgR9wueXde8dIhwcGYzSBoQ70vFdUs8RemUXwkb7Ba8m7VS9R3W4r1gvA8LIrTmzJVuySKhLxAjjjsKgWQBTYQ00ZPeNpynkqNtxwkXMfC0X2HOPac_wW6IsT-D0QQt40NRrh6qz4zMiUp16MEFo9BWIqpFoNyl5bIRCe2f6Flh3LWE-L81hAOGMSWE=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a73000073ff63db_0%7C25c322f54a8a00004a9fbebd_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CX1g4C8Eo_yN1EN32mh7ZTyHiHGD2IXbKaHj4l0cAXu286QWKJtlfaaKLnQmckMbVcR8riMJv0zPuJyZB9HKbW4VkOZH0JssiE35D1MdPxm4Y2I_aRdmr-niVTfH0T59nzLPc5sSgMEGeSV6SPCaO8OUohbF9KVfr3u22-7-tAwymfMZ5rlC1wJJA1IXecxV4nsSsy21U82OUFktbodBSE-J6pfcpACCHNgj3cFSS8KV7n4GdrgR9wueXde8dIhwcGYzSBoQ70vFdUs8RemUXwkb7Ba8m7VS9R3W4r1gvA8LIrTmzJVuySKhLxAjjjsKgWQBTYQ00ZPeNpynkqNtxwkXMfC0X2HOPac_wW6IsT-D0QQt40NRrh6qz4zMiUp16MEFo9BWIqpFoNyl5bIRCe2f6Flh3LWE-L81hAOGMSWE=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-08T14:20:00.000Z",
+        "utc_arrival": "2022-03-08T13:20:00.000Z",
+        "local_departure": "2022-03-08T12:00:00.000Z",
+        "utc_departure": "2022-03-08T12:00:00.000Z"
+    },
+    {
+        "id": "18ff25c34a7e0000ed11c767_0|25c322f54a8900006447f0ec_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 11,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a7e0000ed11c767_0",
+                "combination_id": "18ff25c34a7e0000ed11c767",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2443,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2443",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T21:51:50.000Z",
+                "refresh_timestamp": "2022-01-05T21:51:50.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-19T21:00:00.000Z",
+                "utc_arrival": "2022-03-19T20:00:00.000Z",
+                "local_departure": "2022-03-19T18:40:00.000Z",
+                "utc_departure": "2022-03-19T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8900006447f0ec_0",
+                "combination_id": "25c322f54a8900006447f0ec",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-30T07:25:00.000Z",
+                "utc_arrival": "2022-03-30T06:25:00.000Z",
+                "local_departure": "2022-03-30T07:15:00.000Z",
+                "utc_departure": "2022-03-30T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "ChSbvNT48xwgvUrmWfCROpILvaa_SCU-SRzu2izXhTwG2-Su9bDUB7rzJLnSFR1msJxIRXuh4oCl-xeWKF5d7HuN0Z47nE1FVJ0zZah3rkZ10xG-AhUAZU9tcNS568_4Z0uFKjKn57d8VM387H41e03vIz9CWZ8w2BV4Tn54Ik3-gRZM7YJY4U3J5JUSOU1Qfy8CIFr8ZWNnnaZJwG8VqqG-fBl5CW-EXZcQmMlEdUVFewWwJzVirHBWyTF11v4r3NlVsil0_H2B1UvB503zmpINGNpQzo7x8W4-4Gz0tatiI0t8eiuWec4XLXMpaJHkNBGgULnMj49orM78ehRrI6PlsD6LDQfjuTQjJWEsluaHpboR_xctVv60ujw5WJC5sBnIRrELvTfa6TsgFls6fOSAP0FmsYvAwahv0bwugc04=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a7e0000ed11c767_0%7C25c322f54a8900006447f0ec_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=ChSbvNT48xwgvUrmWfCROpILvaa_SCU-SRzu2izXhTwG2-Su9bDUB7rzJLnSFR1msJxIRXuh4oCl-xeWKF5d7HuN0Z47nE1FVJ0zZah3rkZ10xG-AhUAZU9tcNS568_4Z0uFKjKn57d8VM387H41e03vIz9CWZ8w2BV4Tn54Ik3-gRZM7YJY4U3J5JUSOU1Qfy8CIFr8ZWNnnaZJwG8VqqG-fBl5CW-EXZcQmMlEdUVFewWwJzVirHBWyTF11v4r3NlVsil0_H2B1UvB503zmpINGNpQzo7x8W4-4Gz0tatiI0t8eiuWec4XLXMpaJHkNBGgULnMj49orM78ehRrI6PlsD6LDQfjuTQjJWEsluaHpboR_xctVv60ujw5WJC5sBnIRrELvTfa6TsgFls6fOSAP0FmsYvAwahv0bwugc04=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-19T21:00:00.000Z",
+        "utc_arrival": "2022-03-19T20:00:00.000Z",
+        "local_departure": "2022-03-19T18:40:00.000Z",
+        "utc_departure": "2022-03-19T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a7e0000ed11c767_0|25c322f54a8a00004a9fbebd_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 12,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": null
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a7e0000ed11c767_0",
+                "combination_id": "18ff25c34a7e0000ed11c767",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2443,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2443",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T21:51:50.000Z",
+                "refresh_timestamp": "2022-01-05T21:51:50.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-19T21:00:00.000Z",
+                "utc_arrival": "2022-03-19T20:00:00.000Z",
+                "local_departure": "2022-03-19T18:40:00.000Z",
+                "utc_departure": "2022-03-19T18:40:00.000Z"
+            },
+            {
+                "id": "25c322f54a8a00004a9fbebd_0",
+                "combination_id": "25c322f54a8a00004a9fbebd",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8324,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-31T11:00:00.000Z",
+                "utc_arrival": "2022-03-31T10:00:00.000Z",
+                "local_departure": "2022-03-31T10:50:00.000Z",
+                "utc_departure": "2022-03-31T08:50:00.000Z"
+            }
+        ],
+        "booking_token": "CWuMnqKoI3cyw0HKSSn79jVyhIvytOZ-CwYBC8QHrG9VZfyCiDgTGiMx5roqD-Ix1ClFZ8SL3dwEXcLa8QbPAZ1JSm_RqzxH8z2NfE-VO-2nMbetCEp0RKZxRNwoeG1WmuWtLGQ89IAOhIqdGJNCSt6ap1HWdjvV9ZEzkXbmaog78FCViBRxowPcz5M1dGSg-6BOZVB7u-QLS5jtyG4u3iwVIEF4xqXExab8g2nWXk_DdnRqmv4TLrvrreemW-tDU4PY2s-qQ3boOuYYJGZdBo-Yct3ThnVm8Uq5UcJV_V3DW_jytLXPR-0H16DpeFBemxVidbuZ1A73gnXMjmYozt13MaVBeP99wipUkajwkewmZc3sfbMwV4Dnp4W72V2W9ba_FMkztSFrKWp5fNedrdA==",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a7e0000ed11c767_0%7C25c322f54a8a00004a9fbebd_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=CWuMnqKoI3cyw0HKSSn79jVyhIvytOZ-CwYBC8QHrG9VZfyCiDgTGiMx5roqD-Ix1ClFZ8SL3dwEXcLa8QbPAZ1JSm_RqzxH8z2NfE-VO-2nMbetCEp0RKZxRNwoeG1WmuWtLGQ89IAOhIqdGJNCSt6ap1HWdjvV9ZEzkXbmaog78FCViBRxowPcz5M1dGSg-6BOZVB7u-QLS5jtyG4u3iwVIEF4xqXExab8g2nWXk_DdnRqmv4TLrvrreemW-tDU4PY2s-qQ3boOuYYJGZdBo-Yct3ThnVm8Uq5UcJV_V3DW_jytLXPR-0H16DpeFBemxVidbuZ1A73gnXMjmYozt13MaVBeP99wipUkajwkewmZc3sfbMwV4Dnp4W72V2W9ba_FMkztSFrKWp5fNedrdA==",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-19T21:00:00.000Z",
+        "utc_arrival": "2022-03-19T20:00:00.000Z",
+        "local_departure": "2022-03-19T18:40:00.000Z",
+        "utc_departure": "2022-03-19T18:40:00.000Z"
+    },
+    {
+        "id": "18ff25c34a81000003fdfe42_0|25c322f54a8900006447f0ec_0",
+        "flyFrom": "LTN",
+        "flyTo": "CDG",
+        "cityFrom": "London",
+        "cityCodeFrom": "LON",
+        "cityTo": "Paris",
+        "cityCodeTo": "PAR",
+        "countryFrom": {
+            "code": "GB",
+            "name": "United Kingdom"
+        },
+        "countryTo": {
+            "code": "FR",
+            "name": "France"
+        },
+        "type_flights": [
+            "deprecated"
+        ],
+        "nightsInDest": 8,
+        "quality": 110.99989,
+        "distance": 380,
+        "duration": {
+            "departure": 4800,
+            "return": 4200,
+            "total": 9000
+        },
+        "price": 56,
+        "conversion": {
+            "GBP": 56,
+            "EUR": 67
+        },
+        "bags_price": {
+            "1": 56.45,
+            "2": 126.65
+        },
+        "baglimit": {
+            "hand_height": 36,
+            "hand_length": 45,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 275,
+            "hold_height": 90,
+            "hold_length": 135,
+            "hold_weight": 15,
+            "hold_width": 50
+        },
+        "availability": {
+            "seats": 7
+        },
+        "routes": [
+            [
+                "LTN",
+                "CDG"
+            ],
+            [
+                "CDG",
+                "LGW"
+            ]
+        ],
+        "airlines": [
+            "U2"
+        ],
+        "route": [
+            {
+                "id": "18ff25c34a81000003fdfe42_0",
+                "combination_id": "18ff25c34a81000003fdfe42",
+                "flyFrom": "LTN",
+                "flyTo": "CDG",
+                "cityFrom": "London",
+                "cityCodeFrom": "LON",
+                "cityTo": "Paris",
+                "cityCodeTo": "PAR",
+                "airline": "U2",
+                "flight_no": 2445,
+                "operating_carrier": "U2",
+                "operating_flight_no": "2445",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 0,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T20:41:51.000Z",
+                "refresh_timestamp": "2022-01-05T20:41:51.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-22T14:20:00.000Z",
+                "utc_arrival": "2022-03-22T13:20:00.000Z",
+                "local_departure": "2022-03-22T12:00:00.000Z",
+                "utc_departure": "2022-03-22T12:00:00.000Z"
+            },
+            {
+                "id": "25c322f54a8900006447f0ec_0",
+                "combination_id": "25c322f54a8900006447f0ec",
+                "flyFrom": "CDG",
+                "flyTo": "LGW",
+                "cityFrom": "Paris",
+                "cityCodeFrom": "PAR",
+                "cityTo": "London",
+                "cityCodeTo": "LON",
+                "airline": "U2",
+                "flight_no": 8322,
+                "operating_carrier": "EC",
+                "operating_flight_no": "",
+                "fare_basis": "",
+                "fare_category": "M",
+                "fare_classes": "",
+                "fare_family": "",
+                "return": 1,
+                "bags_recheck_required": false,
+                "vi_connection": false,
+                "guarantee": false,
+                "last_seen": "2022-01-05T18:43:56.000Z",
+                "refresh_timestamp": "2022-01-05T18:43:56.000Z",
+                "equipment": null,
+                "vehicle_type": "aircraft",
+                "local_arrival": "2022-03-30T07:25:00.000Z",
+                "utc_arrival": "2022-03-30T06:25:00.000Z",
+                "local_departure": "2022-03-30T07:15:00.000Z",
+                "utc_departure": "2022-03-30T05:15:00.000Z"
+            }
+        ],
+        "booking_token": "C0jPejfvH4Aiehu5d9HUhSm4GWa_AlF-Ut_s1IZGHIqleCdsw2GDbHroKe1gUAuwnYfbPrxIHHuVHunkd7yaxFkb9symnzxqtG563vIagA03pejYKa8xa6M8kaXT3ICtyjbNSQeRygBkHRLSC25gRVHwaN0G2GdTBrV0_vsD0pd3uzpgdgWyVJ-loYCaa2uH31TV4Jcpu_n2aIQlTAxwPMI6MI79-3eH3j6ZzXV1bVxNw8OiHMfVclyPJNjyKrlyIUVrrI35t2zHlYwAtTEmnPrPKRgxc-9mGCInpNQG3cvLBoaTB42AOj9z0bI2C4xPOd0OFnW0qwuaAPFoMx-Qs0i6BGlGPRat1M-8Gj8xBJIe7ec1tMJI8BzZFdqNtBDwlpqQ4hIrx0sw_N1VSwYBTR8YRbDI6n1HMYawZ4VoLySg=",
+        "deep_link": "https://www.kiwi.com/deep?from=LTN&to=CDG&flightsId=18ff25c34a81000003fdfe42_0%7C25c322f54a8900006447f0ec_0&price=67&passengers=1&affilid=jasontwebb250flightsearch1&lang=en&currency=GBP&booking_token=C0jPejfvH4Aiehu5d9HUhSm4GWa_AlF-Ut_s1IZGHIqleCdsw2GDbHroKe1gUAuwnYfbPrxIHHuVHunkd7yaxFkb9symnzxqtG563vIagA03pejYKa8xa6M8kaXT3ICtyjbNSQeRygBkHRLSC25gRVHwaN0G2GdTBrV0_vsD0pd3uzpgdgWyVJ-loYCaa2uH31TV4Jcpu_n2aIQlTAxwPMI6MI79-3eH3j6ZzXV1bVxNw8OiHMfVclyPJNjyKrlyIUVrrI35t2zHlYwAtTEmnPrPKRgxc-9mGCInpNQG3cvLBoaTB42AOj9z0bI2C4xPOd0OFnW0qwuaAPFoMx-Qs0i6BGlGPRat1M-8Gj8xBJIe7ec1tMJI8BzZFdqNtBDwlpqQ4hIrx0sw_N1VSwYBTR8YRbDI6n1HMYawZ4VoLySg=",
+        "tracking_pixel": "",
+        "facilitated_booking_available": true,
+        "pnr_count": 2,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "throw_away_ticketing": false,
+        "hidden_city_ticketing": false,
+        "virtual_interlining": true,
+        "transfers": [],
+        "local_arrival": "2022-03-22T14:20:00.000Z",
+        "utc_arrival": "2022-03-22T13:20:00.000Z",
+        "local_departure": "2022-03-22T12:00:00.000Z",
+        "utc_departure": "2022-03-22T12:00:00.000Z"
+    }
+]

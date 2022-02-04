@@ -1,0 +1,80 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+        "genre_ids": [
+            12,
+            10751,
+            14,
+            35,
+            10749
+        ],
+        "id": 2493,
+        "original_language": "en",
+        "original_title": "The Princess Bride",
+        "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+        "popularity": 20.184,
+        "poster_path": "/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+        "release_date": "1987-09-25",
+        "title": "The Princess Bride",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 3619
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wlRJ6tasNFUBMsFdVepQTza47Vf.jpg",
+        "genre_ids": [
+            14,
+            35,
+            10770
+        ],
+        "id": 742922,
+        "original_language": "en",
+        "original_title": "A Virtual Princess Bride Reunion",
+        "overview": "The cast of The Princess Bride is together again! The stars of the iconic 1987 fantasy film reunited for a virtual table read hosted by Jason Reitman. The 3-hour virtual reunion included director Rob Reiner and actors Robin Wright, Cary Elwes, Mandy Patinkin, Billy Crystal, Carol Kane, Chris Sarandon, Wallace Shaw, and Christopher Guest. A Q&A after was moderated by Patton Oswalt. Guest stars stepped in for actors who were not available, including Finn Wolfhard, Josh Gad, Eric Idle, and Whoopi Goldberg.",
+        "popularity": 3.129,
+        "poster_path": "/r3ajAzeO1kP1GG8tlyY8GFdq61X.jpg",
+        "release_date": "2020-09-13",
+        "title": "A Virtual Princess Bride Reunion",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 214652,
+        "original_language": "en",
+        "original_title": "As You Wish: The Story of 'The Princess Bride'",
+        "overview": "A \"behinds the scenes\" documentary about the making of the 1987 film THE PRINCESS BRIDE with original archive footage and new interviews with cast members.",
+        "popularity": 1.217,
+        "poster_path": "/9cNaLB2eTlyRKTLfYRgex5tIFPP.jpg",
+        "release_date": "2001-09-04",
+        "title": "As You Wish: The Story of 'The Princess Bride'",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 560351,
+        "original_language": "en",
+        "original_title": "True Love: The Princess Bride Phenomenon",
+        "overview": "A conversation with Rob Reiner, Cary Elwes, and Robin Wright about the making of the 1987 film THE PRINCESS BRIDE.",
+        "popularity": 0.737,
+        "poster_path": "/9zLwUKZX3C258InyP8wdl4fOLXW.jpg",
+        "release_date": "2012-10-02",
+        "title": "True Love: The Princess Bride Phenomenon",
+        "video": true,
+        "vote_average": 8,
+        "vote_count": 2
+    }
+]

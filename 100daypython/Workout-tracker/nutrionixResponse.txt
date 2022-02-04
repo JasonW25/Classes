@@ -1,0 +1,19 @@
+{
+"exercises":[
+    {"tag_id":814,
+    "user_input":"biked",
+    "duration_min":26.83,
+    "met":6.8,
+    "nf_calories":288.87,
+    "photo":{
+        "highres":null,
+            "thumb":null,
+            "is_user_uploaded":false
+            },
+    "compendium_code":1020,
+    "name":"bicycling",
+    "description":null,
+    "benefits":null}
+    ]
+
+}

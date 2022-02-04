@@ -38,13 +38,15 @@ db = SQLAlchemy(app)
 class RegisterForm(FlaskForm):
     name = StringField(label="name", validators=[ DataRequired()])
     email = StringField(label="email", validators=[Email(), DataRequired()])
-    password = PasswordField(label="password", validators=[ DataRequired()])
+    password = PasswordField(label="password", validators=[DataRequired()])
     submit = SubmitField(label="Register", validators=[DataRequired()])
+
 
 class LoginForm(FlaskForm):
     email = StringField(label="email", validators=[Email(), DataRequired()])
-    password = PasswordField(label="password", validators=[ DataRequired()])
+    password = PasswordField(label="password", validators=[DataRequired()])
     submit = SubmitField(label="Log In", validators=[DataRequired()])
+
 
 class CommentForm(FlaskForm):
     body = CKEditorField("Comment", validators=[DataRequired()])
@@ -140,8 +142,6 @@ def login():
             if check_password_hash(user.password, form.password.data):
                 print("test3")
                 login_user(user)
-
-                flash('Logged in successfully.')
                 return redirect(url_for('get_all_posts', logged_in=current_user.is_authenticated))
             else:
                 flash('Password incorrect')
