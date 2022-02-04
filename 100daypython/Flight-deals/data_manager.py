@@ -4,9 +4,9 @@ import json
 class DataManager:
     #This class is responsible for talking to the Google Sheet.
     def __init__(self) -> None:
-        self.SHEETY_ENDPOINT = "https://api.sheety.co/178b21c86acd124f8b551671aa235d53/flightDeals/prices"
+        self.SHEETY_ENDPOINT = " "
         self.sheety_headers = {
-            "Authorization": "Bearer jdvd7eismz6dm39fld8s63h4f5"
+            "Authorization": "   "
         }
 
     def get_sheet_data(self):
