@@ -1,11 +1,11 @@
 import requests
 import datetime as dt
 
-NUTRIX_API = "8cf191958dcb68307871d748d173add4"
-NUTRIX_ID = "479de28f"
-NUTRIX_API_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
+NUTRIX_API = ""
+NUTRIX_ID = ""
+NUTRIX_API_ENDPOINT = "h"
 
-SHEETY_ENDPOINT = "https://api.sheety.co/178b21c86acd124f8b551671aa235d53/workoutTracking/workouts"
+SHEETY_ENDPOINT = ""
 
 today = dt.datetime.now()
 
