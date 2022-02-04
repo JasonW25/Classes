@@ -16,8 +16,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///movies.db'
 db = SQLAlchemy(app)
 Bootstrap(app)
 
-api_key = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3Yjg4NWRlZmJiMmI5ZjViZDEwMTYyZTA3NWE5ZjRkZSIsInN1YiI6IjYxZjVjOTI5NTllOGE5MDAxYjBlNzUwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.17Qm925m05fLLCMIlA3A2KcsbHYUreGrtgU_zyS5_-Y"
-api_url = "https://api.themoviedb.org/3/search/movie"
+api_key = "
 headers = {
     'Authorization': f'Bearer {api_key}',
     'Content-Type': 'application/json;charset=utf-8'
