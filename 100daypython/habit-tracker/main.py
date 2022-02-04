@@ -3,7 +3,7 @@ import datetime as dt
 
 today = dt.datetime.now()
 headers = {
-    "X-USER-TOKEN": "dkv8dnsfj83rf6azf0epwid7vhrnt6"
+    "X-USER-TOKEN": ""
 }
 
 
