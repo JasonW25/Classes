@@ -6,7 +6,7 @@ from flask_bootstrap import Bootstrap
 
 app = Flask(__name__)
 Bootstrap(app)
-app.secret_key = "DSGDFGRHRGSFSHJUIUTG"
+app.secret_key = ""
 
 class MyForm(FlaskForm):
     email = StringField(label="email", validators=[Email(), DataRequired()])
