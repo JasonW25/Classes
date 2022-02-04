@@ -1,8 +1,8 @@
 import requests
 import datetime as dt
 
-MY_LAT = 32.776665
-MY_LONG = -96.796989
+MY_LAT = 
+MY_LONG = 
 
 response = requests.get(url="http://api.open-notify.org/iss-now.json")
 response.raise_for_status()
