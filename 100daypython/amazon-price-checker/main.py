@@ -25,6 +25,6 @@ if price_point > float(price):
 
     connection = smtplib.SMTP("smtp.gmail.com")
     connection.starttls()
-    connection.login(user=my_email, password="Testpassword250")
+    connection.login(user=my_email, password="")
     connection.sendmail(from_addr=my_email, to_addrs="jasontwebb250@gmail.com", msg="Subject:Price Check\n\n" + f"The instapot is under {price_point} and is {price}.\n{item_url}")
     connection.close()
