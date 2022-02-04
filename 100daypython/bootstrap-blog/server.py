@@ -41,7 +41,7 @@ def recieve_data():
         my_email = "JasonCodingTest@gmail.com"
         connection = smtplib.SMTP("smtp.gmail.com")
         connection.starttls()
-        connection.login(user=my_email, password="Testpassword250")
+        connection.login(user=my_email, password="")
         connection.sendmail(from_addr=my_email, to_addrs=email, msg=f"Subject:From: {name}\n\n" + f"{phone}\n" + message)
         connection.close()
         return render_template("contact.html", msg_sent=True)
