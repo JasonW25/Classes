@@ -6,8 +6,8 @@ from spotipy.oauth2 import SpotifyOAuth
 year_input = input("What date do you want a top 100 playlist from? YYYY-MM-DD format:\n")
 
 url = f"https://www.billboard.com/charts/hot-100/{year_input}/"
-CLIENT_ID = "4fdf4eaa882d4429be83234af91ef09e"
-CLIENT_SECRET = "2d21c715f287493d836d6826bdf8c294"
+CLIENT_ID = "
+CLIENT_SECRET = 
 
 response = requests.get(url)
 
